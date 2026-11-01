@@ -1,0 +1,122 @@
+<section id="boards" class="boards"
+  hx-get="/boards"
+  hx-trigger="{{.Trigger}}, refreshCharts from:body"
+  hx-target="this"
+  hx-swap="outerHTML">
+  <div class="shell">
+    <div class="section-head"><div><h2>Explore the charts</h2><p class="section-description">All-time favorites and this week’s most popular games.</p></div>{{template "refresh" .}}</div>
+    <div class="overview-summary"><span class="refresh-line">{{.UpdatedText}}</span><span>CrossOver ratings for Mac</span></div>
+    {{template "notice" .}}
+
+    <div class="board-grid">
+      <article class="board" id="top-games">
+        <header class="board-head">
+          <div>
+            <div class="board-kicker"><span class="board-dot"></span>All time</div>
+            <h3>Top games</h3>
+          </div>
+          <span class="board-count">{{len .Snapshot.Top}} titles</span>
+        </header>
+
+        <ol class="board-list">
+          {{range take .Snapshot.Top 5}}
+          <li class="game-row">
+            {{template "rank" .}}
+            {{template "cover" .}}
+            <div class="game-main">
+              <a class="game-title" href="{{.URL}}" target="_blank" rel="noopener noreferrer" title="{{.Title}}">{{.Title}}</a>
+              <div class="game-meta">{{genres .Genres}}{{if .Year}}{{if .Genres}} · {{end}}{{.Year}}{{end}}</div>
+            </div>
+            <div class="game-numbers" title="{{.Downloads}} all-time downloads">
+              <span class="downloads">{{num .Downloads}}</span>
+              <span class="downloads-label">all-time</span>
+            </div>
+            {{template "compat" .Compat}}
+          </li>
+          {{else}}
+          <li class="empty-row">Getting the games ready…</li>
+          {{end}}
+        </ol>
+
+        <footer class="board-foot">
+          <span>Ranked by all-time downloads</span>
+          <a href="/top-games">View all {{template "arrow"}}</a>
+        </footer>
+      </article>
+
+      <article class="board" id="trending">
+        <header class="board-head">
+          <div>
+            <div class="board-kicker"><span class="board-dot board-dot-blue"></span>Last 7 days</div>
+            <h3>Trending</h3>
+          </div>
+          <span class="board-count">{{len .Snapshot.Trending}} titles</span>
+        </header>
+
+        <ol class="board-list">
+          {{range take .Snapshot.Trending 5}}
+          <li class="game-row">
+            {{template "rank" .}}
+            {{template "cover" .}}
+            <div class="game-main">
+              <a class="game-title" href="{{.URL}}" target="_blank" rel="noopener noreferrer" title="{{.Title}}">{{.Title}}</a>
+              <div class="game-meta">{{genres .Genres}}{{if .Peak}}{{if .Genres}} · {{end}}Peak {{.Peak}}{{end}}</div>
+            </div>
+            <div class="game-numbers" title="{{.Downloads}} downloads this week">
+              <span class="downloads">{{num .Downloads}}</span>
+              <span class="downloads-label">this week</span>
+            </div>
+            {{template "compat" .Compat}}
+          </li>
+          {{else}}
+          <li class="empty-row">Getting the games ready…</li>
+          {{end}}
+        </ol>
+
+        <footer class="board-foot">
+          <span>Ranked by downloads this week</span>
+          <a href="/trending">View all {{template "arrow"}}</a>
+        </footer>
+      </article>
+    </div>
+  </div>
+</section>
+
+{{define "rank"}}
+<span class="rank-cell">
+  <span class="rank">{{printf "%02d" .Rank}}</span>
+  {{if .Move}}<span class="move {{.MoveClass}}" title="Rank change since last week">{{.Move}}</span>{{end}}
+</span>
+{{end}}
+
+{{define "cover"}}
+<a class="thumb" href="{{.URL}}" target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
+  {{if .Image}}
+  <img src="{{.Image}}" alt="" width="52" height="36" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+  {{else}}
+  <span class="thumb-fallback">{{initial .Title}}</span>
+  {{end}}
+</a>
+{{end}}
+
+{{define "compat"}}
+{{if .URL}}
+<a class="compat compat-{{.Status}}" href="{{.URL}}" target="_blank" rel="noopener noreferrer"
+  title="{{.Tooltip}}" aria-label="CrossOver compatibility: {{.Label}}. {{.Tooltip}}">
+  <span class="compat-dot"></span>
+  <span>{{.Label}}</span>
+  {{if .Stars}}<span class="compat-score">{{.Stars}}/5</span>{{end}}
+</a>
+{{else}}
+<span class="compat compat-{{.Status}}" title="{{.Tooltip}}">
+  <span class="compat-dot"></span>
+  <span>{{.Label}}</span>
+  {{if .Stars}}<span class="compat-score">{{.Stars}}/5</span>{{end}}
+</span>
+{{end}}
+{{end}}
+
+{{define "notice"}}{{if .Snapshot.Errors}}<div class="notice" role="status">{{if .Loading}}We couldn’t load the charts just now. Please try again shortly.{{else}}Some games couldn’t be updated. Your last available charts are shown below.{{end}}</div>{{end}}{{end}}
+{{define "arrow"}}<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>{{end}}
+{{define "back-arrow"}}<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M19 12H5m6-6-6 6 6 6"/></svg>{{end}}
+{{define "search-icon"}}<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg>{{end}}

@@ -1,0 +1,28 @@
+{{define "head"}}
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Find popular games and check their CrossOver ratings for Mac. Browse the top games and this week’s trending titles.">
+<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;450;500;600;650&amp;family=Geist+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css?v=4">
+<script src="/static/theme.js?v=3"></script>
+<script src="/static/htmx.min.js" defer></script><script src="/static/app.js?v=5" defer></script>
+{{end}}
+{{define "header"}}
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="shell header-inner">
+<a class="brand" href="/" aria-label="AnkerDeck home"><svg class="brand-mark" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="6" fill="currentColor"/><path d="M7 17 12 6l5 11M9 13h6" fill="none" stroke="var(--surface)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg><span>AnkerDeck</span></a>
+<nav class="nav" aria-label="Primary">
+<a href="/" {{if not .ListKind}}aria-current="page"{{end}}>Overview</a>
+<a href="/top-games" {{if eq .ListKind "top"}}aria-current="page"{{end}}>Top games</a>
+<a href="/trending" {{if eq .ListKind "trending"}}aria-current="page"{{end}}>Trending</a>
+</nav>
+<div class="header-right"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch color theme"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20.9 13A9 9 0 0 1 11 3.1 9 9 0 1 0 20.9 13Z"/></svg></button></div>
+</div></header>
+{{end}}
+{{define "refresh"}}
+<div class="refresh-control"><button class="refresh-button" hx-post="/refresh" hx-target="#refresh-result" hx-disabled-elt="this" hx-swap="innerHTML"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M6 7a7 7 0 0 1 12-1l2 6M4 12l2 6a7 7 0 0 0 12-1"/></svg><span>Refresh</span></button><span id="refresh-result" class="refresh-result" role="status"></span></div>
+{{end}}
+{{define "footer"}}
+<footer class="site-footer"><div class="shell footer-inner"><span class="footer-brand">AnkerDeck <span>Find your next game.</span></span><div class="footer-links"><a href="https://ankergames.net" target="_blank" rel="noopener noreferrer">AnkerGames</a><a href="https://www.codeweavers.com/compatibility" target="_blank" rel="noopener noreferrer">CrossOver ratings</a></div><p>Independent project. Not affiliated with AnkerGames or CodeWeavers.</p></div></footer>
+{{end}}

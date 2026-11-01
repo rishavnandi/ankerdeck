@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.vercel/
+*.db
+*.db-shm
+*.db-wal
+ankerdeck
+coverage.out
