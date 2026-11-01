@@ -8,3 +8,5 @@
 *.db-wal
 ankerdeck
 coverage.out
+.vercel
+.env*
