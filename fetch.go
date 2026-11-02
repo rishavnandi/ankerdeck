@@ -35,8 +35,8 @@ func NewFetcher(jinaKey string) *Fetcher {
 }
 
 // Get tries the source directly first. AnkerGames sits behind a Cloudflare
-// managed challenge, so a 403 is expected; the Jina Reader then fetches the
-// same page with a real browser and returns its HTML.
+// managed challenge, so a 403 is expected; the Jina Reader then retries with
+// its Cloudflare browser-rendering engine and returns the page HTML.
 func (f *Fetcher) Get(ctx context.Context, rawURL string) ([]byte, error) {
 	directCtx, cancel := context.WithTimeout(ctx, 12*time.Second)
 	body, directErr := f.direct(directCtx, rawURL)
@@ -90,7 +90,8 @@ func (f *Fetcher) reader(ctx context.Context, rawURL string) ([]byte, error) {
 		return nil, err
 	}
 	req.Header.Set("Accept", "text/html")
-	req.Header.Set("X-Return-Format", "html")
+	req.Header.Set("X-Respond-With", "html")
+	req.Header.Set("X-Engine", "cf-browser-rendering")
 	if f.jinaKey != "" {
 		req.Header.Set("Authorization", "Bearer "+f.jinaKey)
 	}
