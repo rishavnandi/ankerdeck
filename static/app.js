@@ -21,20 +21,6 @@
   document.addEventListener('click', event => {
     if (event.target.closest('[data-clear-filters]')) { search.value = ''; rating.value = 'all'; filter(); search.focus(); }
   });
-  document.addEventListener('htmx:after:swap', filter);
-  document.addEventListener('htmx:finally:request', event => {
-    const ctx = event.detail.ctx;
-    if (!(ctx?.sourceElement instanceof Element) || !ctx.sourceElement.matches('.refresh-button')) return;
-    const result = document.querySelector('#refresh-result');
-    if (!result) return;
-    if (!ctx.response || ctx.response.status >= 400) result.textContent = 'Couldn’t refresh. Please try again.';
-    if (ctx.response?.status === 202) {
-      document.body.dispatchEvent(new Event('refreshCharts'));
-      // Poll promptly while the requested refresh is in flight.
-      [5000, 15000, 30000].forEach(delay => setTimeout(() => document.body.dispatchEvent(new Event('refreshCharts')), delay));
-    }
-    setTimeout(() => { if (result?.isConnected) result.textContent = ''; }, 8000);
-  });
   // Replace failed cover images with a quiet title initial.
   document.addEventListener('error', event => {
     const img = event.target;

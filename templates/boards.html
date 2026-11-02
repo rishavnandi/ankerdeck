@@ -1,12 +1,7 @@
-<section id="boards" class="boards"
-  hx-get="/boards"
-  hx-trigger="{{.Trigger}}, refreshCharts from:body"
-  hx-target="this"
-  hx-swap="outerHTML">
+<section id="boards" class="boards">
   <div class="shell">
-    <div class="section-head"><div><h2>Explore the charts</h2><p class="section-description">All-time favorites and this week’s most popular games.</p></div>{{template "refresh" .}}</div>
-    <div class="overview-summary"><span class="refresh-line">{{.UpdatedText}}</span><span>CrossOver ratings for Mac</span></div>
-    {{template "notice" .}}
+    <div class="section-head"><div><h2>Explore the charts</h2><p class="section-description">All-time favorites and this week’s most popular games.</p></div></div>
+    <div class="overview-summary"><span class="updated-line">{{.UpdatedText}}</span><span>CrossOver ratings for Mac</span></div>
 
     <div class="board-grid">
       <article class="board" id="top-games">
@@ -34,7 +29,7 @@
             {{template "compat" .Compat}}
           </li>
           {{else}}
-          <li class="empty-row">Getting the games ready…</li>
+          <li class="empty-row">No saved chart data is available yet.</li>
           {{end}}
         </ol>
 
@@ -69,7 +64,7 @@
             {{template "compat" .Compat}}
           </li>
           {{else}}
-          <li class="empty-row">Getting the games ready…</li>
+          <li class="empty-row">No saved chart data is available yet.</li>
           {{end}}
         </ol>
 
@@ -116,7 +111,6 @@
 {{end}}
 {{end}}
 
-{{define "notice"}}{{if .Snapshot.Errors}}<div class="notice" role="status">{{if .Loading}}We couldn’t load the charts just now. Please try again shortly.{{else}}Some games couldn’t be updated. Your last available charts are shown below.{{end}}</div>{{end}}{{end}}
 {{define "arrow"}}<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>{{end}}
 {{define "back-arrow"}}<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M19 12H5m6-6-6 6 6 6"/></svg>{{end}}
 {{define "search-icon"}}<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg>{{end}}

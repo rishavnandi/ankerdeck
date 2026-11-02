@@ -1,0 +1,5520 @@
+{
+  "Top": [
+    {
+      "Downloads": 2742500,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-YKQp70NXrg.jpg",
+      "Rank": 1,
+      "Size": "118.4 GB",
+      "Title": "Grand Theft Auto V",
+      "URL": "https://ankergames.net/game/grand-theft-auto-v",
+      "Week": 35100,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-v",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Grand Theft Auto V Legacy Edition”",
+        "CheckedAt": "2026-11-01T23:11:00.53082+05:30",
+        "MatchName": "Grand Theft Auto V Legacy Edition",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 1300000,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-mcjSyGzY5p.jpg",
+      "Rank": 2,
+      "Title": "Grand Theft Auto V Enhanced",
+      "URL": "https://ankergames.net/game/grand-theft-auto-v-enhanced",
+      "Week": 12600,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-v-enhanced",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Grand Theft Auto V Enhanced”",
+        "CheckedAt": "2026-11-01T23:11:01.221745+05:30",
+        "MatchName": "Grand Theft Auto V Enhanced",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 1100000,
+      "Genres": [
+        "Mystery",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/06-2026/cover-FSfUKe6x7h.jpg",
+      "Rank": 3,
+      "Title": "MECCHA CHAMELEON",
+      "URL": "https://ankergames.net/game/meccha-chameleon",
+      "Week": 3200,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/meccha-chameleon",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “MECCHA CHAMELEON”",
+        "CheckedAt": "2026-11-01T23:11:01.823181+05:30",
+        "MatchName": "MECCHA CHAMELEON",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 1043625,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-Z2dlMs3bGW.jpg",
+      "Rank": 4,
+      "Size": "20 GB",
+      "Title": "Grand Theft Auto IV",
+      "URL": "https://ankergames.net/game/grand-theft-auto-iv",
+      "Week": 11722,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-iv",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Grand Theft Auto IV”",
+        "CheckedAt": "2026-11-01T23:11:01.853854+05:30",
+        "MatchName": "Grand Theft Auto IV",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 1035754,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-KGHcNJbH32.jpg",
+      "Rank": 5,
+      "Size": "2 GB",
+      "Title": "Minecraft",
+      "URL": "https://ankergames.net/game/minecraft",
+      "Week": 10132,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/minecraft",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Minecraft”",
+        "CheckedAt": "2026-11-01T23:11:02.732046+05:30",
+        "MatchName": "Minecraft",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 779244,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-bU78ooJ00d.jpg",
+      "Rank": 6,
+      "Size": "9.1 GB",
+      "Title": "Grand Theft Auto: Vice City",
+      "URL": "https://ankergames.net/game/grand-theft-auto-vice-city",
+      "Week": 5737,
+      "Year": 2002,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-vice-city",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Grand Theft Auto: Vice City”",
+        "CheckedAt": "2026-11-01T23:11:03.331045+05:30",
+        "MatchName": "Grand Theft Auto: Vice City",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 654338,
+      "Genres": [
+        "Simulation",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/cover-bLIBmyNLYW.jpg",
+      "Rank": 7,
+      "Size": "148.2 GB",
+      "Title": "Forza Horizon 6",
+      "URL": "https://ankergames.net/game/forza-horizon-6",
+      "Week": 8793,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/forza-horizon-6",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Forza Horizon 6”",
+        "CheckedAt": "2026-11-01T23:11:03.964864+05:30",
+        "MatchName": "Forza Horizon 6",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 624386,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-ySMTlOPMxt.jpg",
+      "Rank": 8,
+      "Size": "18.5 GB",
+      "Title": "Grand Theft Auto San Andreas",
+      "URL": "https://ankergames.net/game/grand-theft-auto-san-andreas",
+      "Week": 6271,
+      "Year": 2004,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-san-andreas",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Grand Theft Auto: San Andreas”",
+        "CheckedAt": "2026-11-01T23:11:04.597071+05:30",
+        "MatchName": "Grand Theft Auto: San Andreas",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 585038,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-eG7n5Hzv45.jpg",
+      "Rank": 9,
+      "Size": "115.4 GB",
+      "Title": "Red Dead Redemption 2",
+      "URL": "https://ankergames.net/game/red-dead-redemption-2",
+      "Week": 9604,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/red-dead-redemption-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Red Dead Redemption 2”",
+        "CheckedAt": "2026-11-01T23:11:05.048509+05:30",
+        "MatchName": "Red Dead Redemption 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 562419,
+      "Genres": [
+        "Simulation",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-LBGa2ys7d5.jpg",
+      "Rank": 10,
+      "Size": "37.7 GB",
+      "Title": "Euro Truck Simulator 2",
+      "URL": "https://ankergames.net/game/euro-truck-simulator-2",
+      "Week": 9974,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/euro-truck-simulator-2",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Euro Truck Simulator 2”",
+        "CheckedAt": "2026-11-01T23:11:05.235238+05:30",
+        "MatchName": "Euro Truck Simulator 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 505038,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-TYSrZ0IMcP.jpg",
+      "Rank": 11,
+      "Size": "115.4 GB",
+      "Title": "Marvels Spider Man 2",
+      "URL": "https://ankergames.net/game/marvels-spider-man-2",
+      "Week": 5162,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/marvels-spider-man-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Marvel's Spider-Man 2”",
+        "CheckedAt": "2026-11-01T23:11:05.855185+05:30",
+        "MatchName": "Marvel's Spider-Man 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 500536,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-d9f6qU0aeD.jpg",
+      "Rank": 12,
+      "Size": "41.5 GB",
+      "Title": "God of War",
+      "URL": "https://ankergames.net/game/god-of-war",
+      "Week": 6837,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/god-of-war",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “God of War”",
+        "CheckedAt": "2026-11-01T23:11:06.475052+05:30",
+        "MatchName": "God of War",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 476110,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-P4x9uxCPvP.jpg",
+      "Rank": 13,
+      "Size": "30.2 GB",
+      "Title": "Palworld",
+      "URL": "https://ankergames.net/game/palworld",
+      "Week": 3586,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/Palworld",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Palworld”",
+        "CheckedAt": "2026-11-01T23:11:06.943992+05:30",
+        "MatchName": "Palworld",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 455207,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-zgZj4qR6Je.jpg",
+      "Rank": 14,
+      "Size": "166.6 GB",
+      "Title": "Forza Horizon 5",
+      "URL": "https://ankergames.net/game/forza-horizon-5",
+      "Week": 3789,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/forza-horizon-5",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Forza Horizon 5”",
+        "CheckedAt": "2026-11-01T23:11:07.571649+05:30",
+        "MatchName": "Forza Horizon 5",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 443180,
+      "Genres": [
+        "Simulation",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-c0nRxErLSG.jpg",
+      "Rank": 15,
+      "Size": "21.8 GB",
+      "Title": "BeamNG.drive",
+      "URL": "https://ankergames.net/game/beamng-drive",
+      "Week": 9568,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=BeamNG.drive",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:08.334894+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 435500,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-IphtxzFkSx.jpg",
+      "Rank": 16,
+      "Size": "8.4 GB",
+      "Title": "Red Dead Redemption",
+      "URL": "https://ankergames.net/game/red-dead-redemption",
+      "Week": 6077,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/red-dead-redemption",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Red Dead Redemption”",
+        "CheckedAt": "2026-11-01T23:11:08.627297+05:30",
+        "MatchName": "Red Dead Redemption",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 416342,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-ueFi1Vte3a.jpg",
+      "Rank": 17,
+      "Size": "6.8 GB",
+      "Title": "Far Cry 3",
+      "URL": "https://ankergames.net/game/far-cry-3",
+      "Week": 7157,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/far-cry-3",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Far Cry 3”",
+        "CheckedAt": "2026-11-01T23:11:08.961702+05:30",
+        "MatchName": "Far Cry 3",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 414052,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ABPFIcjNq2.jpg",
+      "Rank": 18,
+      "Size": "69.2 GB",
+      "Title": "Marvel’s Spider-Man Remastered",
+      "URL": "https://ankergames.net/game/marvel-s-spider-man-remastered",
+      "Week": 4758,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/marvel-s-spider-man-remastered",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Marvel’s Spider-Man Remastered”",
+        "CheckedAt": "2026-11-01T23:11:09.257074+05:30",
+        "MatchName": "Marvel’s Spider-Man Remastered",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 396880,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-vS49myQt6i.jpg",
+      "Rank": 19,
+      "Size": "6.3 GB",
+      "Title": "Need for Speed Most Wanted",
+      "URL": "https://ankergames.net/game/need-for-speed-most-wanted",
+      "Week": 5309,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/need-for-speed-most-wanted",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Need for Speed: Most Wanted”",
+        "CheckedAt": "2026-11-01T23:11:09.590687+05:30",
+        "MatchName": "Need for Speed: Most Wanted",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 371603,
+      "Genres": [
+        "Action",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-Qne94NcTlh.jpg",
+      "Rank": 20,
+      "Size": "2.2 GB",
+      "Title": "Schedule I",
+      "URL": "https://ankergames.net/game/schedule-i",
+      "Week": 3643,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/schedule-i",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Schedule I”",
+        "CheckedAt": "2026-11-01T23:11:09.868833+05:30",
+        "MatchName": "Schedule I",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 327505,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-xibSigu2GI.jpg",
+      "Rank": 21,
+      "Size": "12.3 GB",
+      "Title": "Call of Duty Modern Warfare 2",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare-2",
+      "Week": 9923,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-modern-warfare-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Call of Duty: Modern Warfare 2”",
+        "CheckedAt": "2026-11-01T23:11:07.10282+05:30",
+        "MatchName": "Call of Duty: Modern Warfare 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 307874,
+      "Genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/12-2025/cover-O2oMYDYnHm.jpg",
+      "Rank": 22,
+      "Size": "57.7 GB",
+      "Title": "FIFA 22",
+      "URL": "https://ankergames.net/game/fifa-22",
+      "Week": 5502,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/fifa-22",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “FIFA 22”",
+        "CheckedAt": "2026-11-01T23:11:10.485775+05:30",
+        "MatchName": "FIFA 22",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 295773,
+      "Genres": [
+        "Simulation",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-9KGTx2yUGJ.jpg",
+      "Rank": 23,
+      "Size": "3.1 GB",
+      "Title": "Car For Sale Simulator 2023",
+      "URL": "https://ankergames.net/game/car-for-sale-simulator-2023",
+      "Week": 2986,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Car+For+Sale+Simulator+2023",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:11.154915+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 295675,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-3fLMvPzUQX.jpg",
+      "Rank": 24,
+      "Size": "68.4 GB",
+      "Title": "Resident Evil 4 Remake",
+      "URL": "https://ankergames.net/game/resident-evil-4-remake",
+      "Week": 3895,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Resident+Evil+4+Remake",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:11.15538+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 284661,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-DfYxvEOTXA.jpg",
+      "Rank": 25,
+      "Size": "23.2 GB",
+      "Title": "Resident Evil 2",
+      "URL": "https://ankergames.net/game/resident-evil-2",
+      "Week": 4828,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Resident+Evil+2",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:11.792042+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 278538,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-2N7W7otXYI.jpg",
+      "Rank": 26,
+      "Size": "58.2 GB",
+      "Title": "Ghost Of Tsushima",
+      "URL": "https://ankergames.net/game/ghost-of-tsushima",
+      "Week": 5173,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Ghost+Of+Tsushima",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:11.781457+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 272444,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-pzRZdjSi6X.jpg",
+      "Rank": 27,
+      "Size": "49.9 GB",
+      "Title": "Marvel’s Spider-Man Miles Morales",
+      "URL": "https://ankergames.net/game/marvel-s-spider-man-miles-morales",
+      "Week": 3570,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/marvel-s-spider-man-miles-morales",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Marvel’s Spider-Man: Miles Morales”",
+        "CheckedAt": "2026-11-01T23:11:12.408903+05:30",
+        "MatchName": "Marvel’s Spider-Man: Miles Morales",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 257251,
+      "Genres": [
+        "Casual",
+        "Multiplayer"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-trgFeDLmW4.jpg",
+      "Rank": 28,
+      "Size": "0.7 GB",
+      "Title": "Among Us",
+      "URL": "https://ankergames.net/game/among-us",
+      "Week": 3344,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/among-us",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Among Us”",
+        "CheckedAt": "2026-11-01T23:11:12.417402+05:30",
+        "MatchName": "Among Us",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 251757,
+      "Genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-ebyxSG7zBD.jpg",
+      "Rank": 29,
+      "Size": "64.9 GB",
+      "Title": "Elden Ring",
+      "URL": "https://ankergames.net/game/elden-ring",
+      "Week": 6486,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/elden-ring",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Elden Ring”",
+        "CheckedAt": "2026-11-01T23:11:13.040355+05:30",
+        "MatchName": "Elden Ring",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 251279,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-w2YqDtheYB.jpg",
+      "Rank": 30,
+      "Size": "61.5 GB",
+      "Title": "Forza Horizon 3",
+      "URL": "https://ankergames.net/game/forza-horizon-3",
+      "Week": 4178,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Forza+Horizon+3",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:13.04553+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 243230,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-uN0vS3BRVS.jpg",
+      "Rank": 31,
+      "Size": "80 GB",
+      "Title": "The Last of Us Part I",
+      "URL": "https://ankergames.net/game/the-last-of-us-part-i",
+      "Week": 4673,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-last-of-us-part-i",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “The Last of Us™ Part I”",
+        "CheckedAt": "2026-11-01T23:11:13.639322+05:30",
+        "MatchName": "The Last of Us™ Part I",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 240286,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-nG2o92ohja.jpg",
+      "Rank": 32,
+      "Size": "13.6 GB",
+      "Title": "Sekiro Shadows Die Twice",
+      "URL": "https://ankergames.net/game/sekiro-shadows-die-twice",
+      "Week": 5426,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/sekiro-shadows-die-twice",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Sekiro: Shadows Die Twice”",
+        "CheckedAt": "2026-11-01T23:11:13.685236+05:30",
+        "MatchName": "Sekiro: Shadows Die Twice",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 239986,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-3y3i0qyg4l.jpg",
+      "Rank": 33,
+      "Size": "12.5 GB",
+      "Title": "Assassin's Creed IV Black Flag",
+      "URL": "https://ankergames.net/game/assassins-creed-iv-black-flag",
+      "Week": 3139,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-4-black-flag",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Assassin's Creed IV: Black Flag”",
+        "CheckedAt": "2026-11-01T23:11:14.262582+05:30",
+        "MatchName": "Assassin's Creed IV: Black Flag",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 238160,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/06-2025/cover-yD6fuan4HO.jpg",
+      "Rank": 34,
+      "Size": "12 GB",
+      "Title": "PEAK",
+      "URL": "https://ankergames.net/game/peak",
+      "Week": 1625,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/peak",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “PEAK”",
+        "CheckedAt": "2026-11-01T23:11:14.318028+05:30",
+        "MatchName": "PEAK",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 234858,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-o3bDlk9pyg.jpg",
+      "Rank": 35,
+      "Size": "72.5 GB",
+      "Title": "Cyberpunk 2077",
+      "URL": "https://ankergames.net/game/cyberpunk-2077",
+      "Week": 19326,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/cyberpunk-2077",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Cyberpunk 2077”",
+        "CheckedAt": "2026-11-01T23:11:03.175226+05:30",
+        "MatchName": "Cyberpunk 2077",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 234662,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-lIVojhzTTD.jpg",
+      "Rank": 36,
+      "Size": "36.7 GB",
+      "Title": "NARUTO SHIPPUDEN Ultimate Ninja STORM 4",
+      "URL": "https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-4",
+      "Week": 3211,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/naruto-shippuden-ultimate-ninja-storm-4",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “NARUTO SHIPPUDEN: Ultimate Ninja STORM 4”",
+        "CheckedAt": "2026-11-01T23:11:14.884993+05:30",
+        "MatchName": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 234106,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2026/cover-rCaULNWzmh.jpg",
+      "Rank": 37,
+      "Size": "7.7 GB",
+      "Title": "The Amazing Spider-Man 2",
+      "URL": "https://ankergames.net/game/the-amazing-spider-man-2",
+      "Week": 2970,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=The+Amazing+Spider-Man+2",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:14.935505+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 231836,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-SiIyhlJOzE.jpg",
+      "Rank": 38,
+      "Size": "20.6 GB",
+      "Title": "Call of Duty Black Ops II",
+      "URL": "https://ankergames.net/game/call-of-duty-black-ops-ii",
+      "Week": 6926,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-black-ops-ii",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Call of Duty: Black Ops II”",
+        "CheckedAt": "2026-11-01T23:11:15.559602+05:30",
+        "MatchName": "Call of Duty: Black Ops II",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 231514,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-F0REeNjOqd.jpg",
+      "Rank": 39,
+      "Size": "11.6 GB",
+      "Title": "Sleeping Dogs",
+      "URL": "https://ankergames.net/game/sleeping-dogs",
+      "Week": 4583,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/sleeping-dogs",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Sleeping Dogs”",
+        "CheckedAt": "2026-11-01T23:11:15.559765+05:30",
+        "MatchName": "Sleeping Dogs",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 228752,
+      "Genres": [
+        "Action",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-NqlU70IQoG.jpg",
+      "Rank": 40,
+      "Size": "48.6 GB",
+      "Title": "TEKKEN 7",
+      "URL": "https://ankergames.net/game/tekken-7",
+      "Week": 3173,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/tekken-7",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Tekken 7”",
+        "CheckedAt": "2026-11-01T23:11:16.269213+05:30",
+        "MatchName": "Tekken 7",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 227514,
+      "Genres": [
+        "Simulation",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-xNYQJqWvvg.jpg",
+      "Rank": 41,
+      "Size": "92.1 GB",
+      "Title": "Forza Horizon 4",
+      "URL": "https://ankergames.net/game/forza-horizon-4",
+      "Week": 3495,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/forza-horizon-4",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Forza Horizon 4”",
+        "CheckedAt": "2026-11-01T23:11:16.269213+05:30",
+        "MatchName": "Forza Horizon 4",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 224981,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2025/cover-Ho7leXLp88.jpg",
+      "Rank": 42,
+      "Size": "0.6 GB",
+      "Title": "R.E.P.O",
+      "URL": "https://ankergames.net/game/r-e-p-o",
+      "Week": 2442,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/repo",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “R.E.P.O.”",
+        "CheckedAt": "2026-11-01T23:11:17.125464+05:30",
+        "MatchName": "R.E.P.O.",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 217073,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-BMHa7AQpuw.jpg",
+      "Rank": 43,
+      "Size": "112.5 GB",
+      "Title": "God of War Ragnarök",
+      "URL": "https://ankergames.net/game/god-of-war-ragnarok",
+      "Week": 3056,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/god-of-war-ragnarok",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “God of War Ragnarök”",
+        "CheckedAt": "2026-11-01T23:11:16.885187+05:30",
+        "MatchName": "God of War Ragnarök",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 215992,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-nAX9bMGrhU.jpg",
+      "Rank": 44,
+      "Size": "1.1 GB",
+      "Title": "Hollow Knight",
+      "URL": "https://ankergames.net/game/hollow-knight",
+      "Week": 3219,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hollow-knight",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Hollow Knight”",
+        "CheckedAt": "2026-11-01T23:11:17.494306+05:30",
+        "MatchName": "Hollow Knight",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 212250,
+      "Genres": [
+        "Action",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-qvxHpe3JN7.jpg",
+      "Rank": 45,
+      "Size": "10.8 GB",
+      "Title": "Call of Duty Black Ops",
+      "URL": "https://ankergames.net/game/call-of-duty-black-ops",
+      "Week": 4297,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-black-ops",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Call of Duty: Black Ops”",
+        "CheckedAt": "2026-11-01T23:11:17.759272+05:30",
+        "MatchName": "Call of Duty: Black Ops",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 210339,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2026/cover-uDKJWlFP0g.jpg",
+      "Rank": 46,
+      "Size": "133.1 GB",
+      "Title": "Black Myth: Wukong",
+      "URL": "https://ankergames.net/game/black-myth-wukong",
+      "Week": 5972,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/black-myth-wukong",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Black Myth: Wukong”",
+        "CheckedAt": "2026-11-01T23:11:18.110835+05:30",
+        "MatchName": "Black Myth: Wukong",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 208770,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/007-first-light-cover_e0EJSu_1779822722.png",
+      "Rank": 47,
+      "Size": "50.5 GB",
+      "Title": "007 First Light",
+      "URL": "https://ankergames.net/game/007-first-light",
+      "Week": 4583,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/007-first-light",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “007 First Light”",
+        "CheckedAt": "2026-11-01T23:11:18.39214+05:30",
+        "MatchName": "007 First Light",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 207020,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-hC4w9HwDh6.jpg",
+      "Rank": 48,
+      "Size": "28.1 GB",
+      "Title": "Watch Dogs 2",
+      "URL": "https://ankergames.net/game/watch-dogs-2",
+      "Week": 3756,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/Watch_Dogs_2",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Watch Dogs 2”",
+        "CheckedAt": "2026-11-01T23:11:18.734798+05:30",
+        "MatchName": "Watch Dogs 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 203217,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2025/cover-Setv9JW1VW.jpg",
+      "Rank": 49,
+      "Size": "12.7 GB",
+      "Title": "Hitman: Absolution",
+      "URL": "https://ankergames.net/game/hitman-absolution",
+      "Week": 3160,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hitman-absolution",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Hitman: Absolution”",
+        "CheckedAt": "2026-11-01T23:11:19.033372+05:30",
+        "MatchName": "Hitman: Absolution",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 201563,
+      "Genres": [
+        "VR",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-L4ROQBrIrw.jpg",
+      "Rank": 50,
+      "Size": "21.3 GB",
+      "Title": "Assetto Corsa",
+      "URL": "https://ankergames.net/game/assetto-corsa",
+      "Week": 2419,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assetto-corsa",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Assetto Corsa”",
+        "CheckedAt": "2026-11-01T23:11:19.36094+05:30",
+        "MatchName": "Assetto Corsa",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 199947,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-bFfLmIuTcK.jpg",
+      "Rank": 51,
+      "Size": "20.8 GB",
+      "Title": "Tomb Raider",
+      "URL": "https://ankergames.net/game/tomb-raider",
+      "Week": 3817,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Tomb+Raider",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:19.680815+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 198005,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-qJ4mfmp2ZQ.jpg",
+      "Rank": 52,
+      "Size": "19.8 GB",
+      "Title": "Phasmophobia",
+      "URL": "https://ankergames.net/game/phasmophobia",
+      "Week": 2905,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/phasmophobia",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Phasmophobia”",
+        "CheckedAt": "2026-11-01T23:11:19.986997+05:30",
+        "MatchName": "Phasmophobia",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 192201,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2025/cover-EGzKdwtFFc.jpg",
+      "Rank": 53,
+      "Size": "4.1 GB",
+      "Title": "Hollow Knight: Silksong",
+      "URL": "https://ankergames.net/game/hollow-knight-silksong",
+      "Week": 1911,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hollow-knight-silksong",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Hollow Knight: Silksong”",
+        "CheckedAt": "2026-11-01T23:11:20.313476+05:30",
+        "MatchName": "Hollow Knight: Silksong",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 191791,
+      "Genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/12-2025/cover-eJGFI9qRQo.jpg",
+      "Rank": 54,
+      "Size": "3.3 GB",
+      "Title": "FreshWomen - Season 1",
+      "URL": "https://ankergames.net/game/freshwomen-season-1",
+      "Week": 3164,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=FreshWomen+-+Season+1",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:20.593966+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 190389,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/04-2026/cover-tF7vM3urmI.jpg",
+      "Rank": 55,
+      "Size": "75.2 GB",
+      "Title": "Resident Evil Requiem",
+      "URL": "https://ankergames.net/game/resident-evil-requiem",
+      "Week": 3031,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/resident-evil-requiem",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Resident Evil Requiem”",
+        "CheckedAt": "2026-11-01T23:11:20.946331+05:30",
+        "MatchName": "Resident Evil Requiem",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 187594,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-9ucMf8i2NQ.jpg",
+      "Rank": 56,
+      "Size": "14 GB",
+      "Title": "Call of Duty Modern Warfare 3",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare-3",
+      "Week": 6206,
+      "Year": 2011,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-modern-warfare-3",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Call of Duty: Modern Warfare 3”",
+        "CheckedAt": "2026-11-01T23:11:21.206816+05:30",
+        "MatchName": "Call of Duty: Modern Warfare 3",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 185437,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2025/cover-tJqIWAf5Io.jpg",
+      "Rank": 57,
+      "Size": "22.8 GB",
+      "Title": "Dispatch",
+      "URL": "https://ankergames.net/game/dispatch",
+      "Week": 772,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/dispatch",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Dispatch”",
+        "CheckedAt": "2026-11-01T23:11:21.576168+05:30",
+        "MatchName": "Dispatch",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 184525,
+      "Genres": [
+        "Adventure",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-P0NqnhKIvQ.jpg",
+      "Rank": 58,
+      "Size": "96.3 GB",
+      "Title": "UNCHARTED Legacy of Thieves Collection",
+      "URL": "https://ankergames.net/game/uncharted-legacy-of-thieves-collection",
+      "Week": 2859,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/uncharted-legacy-of-thieves-collection",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “UNCHARTED™: Legacy of Thieves Collection”",
+        "CheckedAt": "2026-11-01T23:11:21.840599+05:30",
+        "MatchName": "UNCHARTED™: Legacy of Thieves Collection",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 184182,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/cover-dUlGNYhIiz.jpg",
+      "Rank": 59,
+      "Size": "13.5 GB",
+      "Title": "Subnautica 2",
+      "URL": "https://ankergames.net/game/subnautica-2",
+      "Week": 1590,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/Subnautica_2",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Subnautica 2”",
+        "CheckedAt": "2026-11-01T23:11:22.205818+05:30",
+        "MatchName": "Subnautica 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 181378,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/08-2026/cover-jndx7acbAh.jpg",
+      "Rank": 60,
+      "Size": "0.8 GB",
+      "Title": "How to Fish",
+      "URL": "https://ankergames.net/game/how-to-fish",
+      "Week": 3583,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/how-to-fish",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “How to Fish”",
+        "CheckedAt": "2026-11-01T23:11:22.463414+05:30",
+        "MatchName": "How to Fish",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 178611,
+      "Genres": [
+        "Action",
+        "Multiplayer"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-xNbFTvmHdZ.jpg",
+      "Rank": 61,
+      "Size": "28 GB",
+      "Title": "DRAGON BALL Sparking! ZERO",
+      "URL": "https://ankergames.net/game/dragon-ball-sparking-zero",
+      "Week": 3402,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/dragon-ball-sparking-zero",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “DRAGON BALL: Sparking! ZERO”",
+        "CheckedAt": "2026-11-01T23:11:22.818477+05:30",
+        "MatchName": "DRAGON BALL: Sparking! ZERO",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 175351,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2025/cover-zByfVh6T8i.jpg",
+      "Rank": 62,
+      "Size": "11.1 GB",
+      "Title": "Resident Evil 4",
+      "URL": "https://ankergames.net/game/resident-evil-4",
+      "Week": 2450,
+      "Year": 2005,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/resident-evil-4",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Resident Evil 4”",
+        "CheckedAt": "2026-11-01T23:11:23.083242+05:30",
+        "MatchName": "Resident Evil 4",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 164539,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-KKOTBf2OoK.jpg",
+      "Rank": 63,
+      "Size": "4.8 GB",
+      "Title": "Assassin's Creed II",
+      "URL": "https://ankergames.net/game/assassins-creed-ii",
+      "Week": 2320,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-ii",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Assassin's Creed II”",
+        "CheckedAt": "2026-11-01T23:11:23.441387+05:30",
+        "MatchName": "Assassin's Creed II",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 161652,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2025/cover-wOweiNrm55.jpg",
+      "Rank": 64,
+      "Size": "2.9 GB",
+      "Title": "RV There Yet",
+      "URL": "https://ankergames.net/game/rv-there-yet",
+      "Week": 2878,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/rv-there-yet",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “RV There Yet?”",
+        "CheckedAt": "2026-11-01T23:11:23.70846+05:30",
+        "MatchName": "RV There Yet?",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 160042,
+      "Genres": [
+        "Crime",
+        "Racing"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-LBpvYObUPW.jpg",
+      "Rank": 65,
+      "Size": "7.3 GB",
+      "Title": "Need For Speed Hot Pursuit",
+      "URL": "https://ankergames.net/game/need-for-speed-hot-pursuit",
+      "Week": 2478,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/need-for-speed-iii-hot-pursuit",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Need for Speed: Hot Pursuit”",
+        "CheckedAt": "2026-11-01T23:11:24.072012+05:30",
+        "MatchName": "Need for Speed: Hot Pursuit",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 159448,
+      "Genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-U6neAqk9np.jpg",
+      "Rank": 66,
+      "Size": "35.3 GB",
+      "Title": "Farming Simulator 25",
+      "URL": "https://ankergames.net/game/farming-simulator-25",
+      "Week": 2879,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/farming-simulator-25",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Farming Simulator 25”",
+        "CheckedAt": "2026-11-01T23:11:24.345223+05:30",
+        "MatchName": "Farming Simulator 25",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 156611,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-zL8uoKjUzF.png",
+      "Rank": 67,
+      "Size": "4.5 GB",
+      "Title": "Assassin's Creed",
+      "URL": "https://ankergames.net/game/assassins-creed",
+      "Week": 1932,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Assassin's Creed”",
+        "CheckedAt": "2026-11-01T23:11:24.976208+05:30",
+        "MatchName": "Assassin's Creed",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 156436,
+      "Genres": [
+        "Action",
+        "Multiplayer"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-FMUVksFMMh.jpg",
+      "Rank": 68,
+      "Size": "12.7 GB",
+      "Title": "Jujutsu Kaisen Cursed Clash",
+      "URL": "https://ankergames.net/game/jujutsu-kaisen-cursed-clash",
+      "Week": 915,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/Jujutsu_Kaisen_Cursed_Clash",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “JuJutsu Kaisen: Cursed Clash”",
+        "CheckedAt": "2026-11-01T23:11:24.976182+05:30",
+        "MatchName": "JuJutsu Kaisen: Cursed Clash",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 155280,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ioTBOm2Cmn.jpg",
+      "Rank": 69,
+      "Size": "73.6 GB",
+      "Title": "HITMAN 3",
+      "URL": "https://ankergames.net/game/hitman-3",
+      "Week": 2294,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=HITMAN+3",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:25.696559+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 153820,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/call-of-duty-modern-warfare-4-cover_lwCzjx_1792346950.png",
+      "Rank": 70,
+      "Size": "71.5 GB",
+      "Title": "Call of Duty: Modern Warfare 4",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare-4",
+      "Week": 44833,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Call+of+Duty%3A+Modern+Warfare+4",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:00.519297+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 153373,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-QylYxLDizt.jpg",
+      "Rank": 71,
+      "Size": "32 GB",
+      "Title": "Far Cry 4",
+      "URL": "https://ankergames.net/game/far-cry-4",
+      "Week": 2298,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/far-cry-4",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Far Cry 4”",
+        "CheckedAt": "2026-11-01T23:11:25.694827+05:30",
+        "MatchName": "Far Cry 4",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 152786,
+      "Genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-9cyJafkS6e.jpg",
+      "Rank": 72,
+      "Size": "37.2 GB",
+      "Title": "Mortal Kombat X",
+      "URL": "https://ankergames.net/game/mortal-kombat-x",
+      "Week": 1901,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/mortal-kombat-x",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Mortal Kombat X”",
+        "CheckedAt": "2026-11-01T23:11:26.323456+05:30",
+        "MatchName": "Mortal Kombat X",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 152423,
+      "Genres": [
+        "Casual",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-HbWMkmieSk.jpg",
+      "Rank": 73,
+      "Size": "0.4 GB",
+      "Title": "Wallpaper Engine",
+      "URL": "https://ankergames.net/game/wallpaper-engine",
+      "Week": 4938,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/wallpaper-engine",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Wallpaper Engine”",
+        "CheckedAt": "2026-11-01T23:11:26.290529+05:30",
+        "MatchName": "Wallpaper Engine",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 150379,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-EPEm2F3pVz.jpg",
+      "Rank": 74,
+      "Size": "28.6 GB",
+      "Title": "Need For Speed Heat",
+      "URL": "https://ankergames.net/game/need-for-speed-heat",
+      "Week": 2042,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Need+For+Speed+Heat",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:27.172408+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 150031,
+      "Genres": [
+        "Adventure",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2026/cover-oJxRiXv6nM.jpg",
+      "Rank": 75,
+      "Size": "0 GB",
+      "Title": "The Genesis Order",
+      "URL": "https://ankergames.net/game/the-genesis-order",
+      "Week": 2668,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=The+Genesis+Order",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:27.029435+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 147286,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-YYHhczpF5C.jpg",
+      "Rank": 76,
+      "Size": "6.6 GB",
+      "Title": "Call of Duty 4 Modern Warfare",
+      "URL": "https://ankergames.net/game/call-of-duty-4-modern-warfare",
+      "Week": 4254,
+      "Year": 2007,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-4-modern-warfare",
+        "Label": "Broken",
+        "Stars": 1,
+        "Status": "broken",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 1/5 stars · matched “Call of Duty 4: Modern Warfare”",
+        "CheckedAt": "2026-11-01T23:11:28.330936+05:30",
+        "MatchName": "Call of Duty 4: Modern Warfare",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 147271,
+      "Genres": [
+        "Simulation",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ll7h4VgDls.jpg",
+      "Rank": 77,
+      "Size": "89.6 GB",
+      "Title": "Cities Skylines II",
+      "URL": "https://ankergames.net/game/cities-skylines-ii",
+      "Week": 2783,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/cities-skylines-ii",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Cities: Skylines II”",
+        "CheckedAt": "2026-11-01T23:11:27.710032+05:30",
+        "MatchName": "Cities: Skylines II",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 147188,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-UXKT4v6jus.jpg",
+      "Rank": 78,
+      "Size": "26.6 GB",
+      "Title": "Watch Dogs",
+      "URL": "https://ankergames.net/game/watch-dogs",
+      "Week": 2351,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/watch-dogs",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Watch Dogs”",
+        "CheckedAt": "2026-11-01T23:11:27.805265+05:30",
+        "MatchName": "Watch Dogs",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 147029,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ToYPEnshTo.jpg",
+      "Rank": 79,
+      "Size": "15.4 GB",
+      "Title": "Left 4 Dead 2",
+      "URL": "https://ankergames.net/game/left-4-dead-2",
+      "Week": 2133,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/left-4-dead-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Left 4 Dead 2”",
+        "CheckedAt": "2026-11-01T23:11:28.424695+05:30",
+        "MatchName": "Left 4 Dead 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 146820,
+      "Genres": [
+        "Simulation",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-kEkmGd4P3g.jpg",
+      "Rank": 80,
+      "Size": "5 GB",
+      "Title": "Project Zomboid",
+      "URL": "https://ankergames.net/game/project-zomboid",
+      "Week": 3325,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/project-zomboid",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Project Zomboid”",
+        "CheckedAt": "2026-11-01T23:11:28.96733+05:30",
+        "MatchName": "Project Zomboid",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 146447,
+      "Genres": [
+        "Adventure",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-XXeY6BWprO.jpg",
+      "Rank": 81,
+      "Size": "3.3 GB",
+      "Title": "Subnautica",
+      "URL": "https://ankergames.net/game/subnautica",
+      "Week": 1603,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/subnautica",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Subnautica”",
+        "CheckedAt": "2026-11-01T23:11:29.039058+05:30",
+        "MatchName": "Subnautica",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 146300,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-lBaUWPtnoL.jpg",
+      "Rank": 82,
+      "Size": "35.4 GB",
+      "Title": "inZOI",
+      "URL": "https://ankergames.net/game/inzoi",
+      "Week": 1119,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/inzoi",
+        "Label": "Broken",
+        "Stars": 1,
+        "Status": "broken",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 1/5 stars · matched “inZOI”",
+        "CheckedAt": "2026-11-01T23:11:29.589322+05:30",
+        "MatchName": "inZOI",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 144645,
+      "Genres": [
+        "Action",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-FQuHPK8VU8.jpg",
+      "Rank": 83,
+      "Size": "116.1 GB",
+      "Title": "TEKKEN 8",
+      "URL": "https://ankergames.net/game/tekken-8",
+      "Week": 2292,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/tekken-8",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “TEKKEN 8”",
+        "CheckedAt": "2026-11-01T23:11:29.660393+05:30",
+        "MatchName": "TEKKEN 8",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 144242,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-Bg3YfAOk4B.jpg",
+      "Rank": 84,
+      "Size": "29.1 GB",
+      "Title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "URL": "https://ankergames.net/game/naruto-x-boruto-ultimate-ninja-storm-connections",
+      "Week": 3354,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/naruto-x-boruto-ultimate-ninja-storm-connections",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS”",
+        "CheckedAt": "2026-11-01T23:11:30.199046+05:30",
+        "MatchName": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 142875,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2026/cover-MK1eMzlOCd.jpg",
+      "Rank": 85,
+      "Size": "7.4 GB",
+      "Title": "The Amazing Spider-Man",
+      "URL": "https://ankergames.net/game/the-amazing-spider-man",
+      "Week": 1602,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=The+Amazing+Spider-Man",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:30.27519+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 139539,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-IU6eH24uCB.jpg",
+      "Rank": 86,
+      "Size": "37.9 GB",
+      "Title": "Ready or Not",
+      "URL": "https://ankergames.net/game/ready-or-not",
+      "Week": 2286,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/ready-or-not",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Ready or Not”",
+        "CheckedAt": "2026-11-01T23:11:30.82364+05:30",
+        "MatchName": "Ready or Not",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 138555,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-igxADjlvnC.jpg",
+      "Rank": 87,
+      "Size": "3.2 GB",
+      "Title": "Bully Scholarship Edition",
+      "URL": "https://ankergames.net/game/bully-scholarship-edition",
+      "Week": 1875,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/bully-scholarship-edition",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Bully: Scholarship Edition”",
+        "CheckedAt": "2026-11-01T23:11:30.897748+05:30",
+        "MatchName": "Bully: Scholarship Edition",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 137671,
+      "Genres": [
+        "Action",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-vftGObA7Th.jpg",
+      "Rank": 88,
+      "Size": "4.6 GB",
+      "Title": "Cuphead",
+      "URL": "https://ankergames.net/game/cuphead",
+      "Week": 2002,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/cuphead",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Cuphead”",
+        "CheckedAt": "2026-11-01T23:11:31.437501+05:30",
+        "MatchName": "Cuphead",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 137548,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-EoKEKe61bF.jpg",
+      "Rank": 89,
+      "Size": "6.3 GB",
+      "Title": "Assassin's Creed Brotherhood",
+      "URL": "https://ankergames.net/game/assassins-creed-brotherhood",
+      "Week": 1915,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-brotherhood",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Assassin's Creed Brotherhood”",
+        "CheckedAt": "2026-11-01T23:11:31.50388+05:30",
+        "MatchName": "Assassin's Creed Brotherhood",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 137247,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-o6GteN66KR.jpg",
+      "Rank": 90,
+      "Size": "36 GB",
+      "Title": "Resident Evil Village",
+      "URL": "https://ankergames.net/game/resident-evil-village",
+      "Week": 2614,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/resident-evil-village",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Resident Evil Village”",
+        "CheckedAt": "2026-11-01T23:11:32.141111+05:30",
+        "MatchName": "Resident Evil Village",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 136851,
+      "Genres": [
+        "Action",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-1WmvhPPYPD.jpg",
+      "Rank": 91,
+      "Size": "4.4 GB",
+      "Title": "Grand Theft Auto III",
+      "URL": "https://ankergames.net/game/grand-theft-auto-iii",
+      "Week": 1098,
+      "Year": 2001,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-iii",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Grand Theft Auto III”",
+        "CheckedAt": "2026-11-01T23:11:32.141183+05:30",
+        "MatchName": "Grand Theft Auto III",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 136205,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-JSdQMeeNYH.jpg",
+      "Rank": 92,
+      "Size": "102.8 GB",
+      "Title": "The Last of Us Part II Remastered",
+      "URL": "https://ankergames.net/game/the-last-of-us-part-ii-remastered",
+      "Week": 1945,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-last-of-us-part-ii-remastered",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “The Last of Us™ Part II Remastered”",
+        "CheckedAt": "2026-11-01T23:11:32.76449+05:30",
+        "MatchName": "The Last of Us™ Part II Remastered",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 135989,
+      "Genres": [
+        "Action",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-fWUQO6HPZW.jpg",
+      "Rank": 93,
+      "Size": "3.4 GB",
+      "Title": "ULTRAKILL",
+      "URL": "https://ankergames.net/game/ultrakill",
+      "Week": 1598,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/ultrakill",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Ultrakill”",
+        "CheckedAt": "2026-11-01T23:11:32.774749+05:30",
+        "MatchName": "Ultrakill",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 134397,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-RDYcQ0MBAJ.jpg",
+      "Rank": 94,
+      "Size": "13.5 GB",
+      "Title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
+      "URL": "https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-3-full-burst",
+      "Week": 1646,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=NARUTO+SHIPPUDEN%3A+Ultimate+Ninja+STORM+3+Full+Burst+HD",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:33.401995+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 132120,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-eoWCSj7r2j.jpg",
+      "Rank": 95,
+      "Size": "22.4 GB",
+      "Title": "Resident Evil 3",
+      "URL": "https://ankergames.net/game/resident-evil-3",
+      "Week": 1908,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Resident+Evil+3",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:34.035087+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 132113,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-8W6xr1nfQD.jpg",
+      "Rank": 96,
+      "Size": "20.4 GB",
+      "Title": "Need for Speed Payback",
+      "URL": "https://ankergames.net/game/need-for-speed-payback",
+      "Week": 1731,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Need+for+Speed+Payback",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:33.67656+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 130941,
+      "Genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-DcRLW6fagL.jpg",
+      "Rank": 97,
+      "Size": "99.5 GB",
+      "Title": "WWE 2K25",
+      "URL": "https://ankergames.net/game/wwe-2k25",
+      "Week": 1201,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/wwe-2k25",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “WWE 2K25”",
+        "CheckedAt": "2026-11-01T23:11:34.296742+05:30",
+        "MatchName": "WWE 2K25",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 129517,
+      "Genres": [
+        "Utilities",
+        "2D"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-Jxnj7Y2Xlp.jpg",
+      "Rank": 98,
+      "Size": "0.3 GB",
+      "Title": "Lossless Scaling",
+      "URL": "https://ankergames.net/game/lossless-scaling",
+      "Week": 1179,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/lossless-scaling",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Lossless Scaling”",
+        "CheckedAt": "2026-11-01T23:11:34.650589+05:30",
+        "MatchName": "Lossless Scaling",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 128840,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-LPdhx0P5aG.jpg",
+      "Rank": 99,
+      "Size": "2 GB",
+      "Title": "Choo-Choo Charles",
+      "URL": "https://ankergames.net/game/choo-choo-charles",
+      "Week": 1312,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/choo-choo-charles",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Choo-Choo Charles”",
+        "CheckedAt": "2026-11-01T23:11:34.924464+05:30",
+        "MatchName": "Choo-Choo Charles",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 127610,
+      "Genres": [
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-zjsSippXC6.jpg",
+      "Rank": 100,
+      "Size": "17.2 GB",
+      "Title": "Pro Evolution Soccer 2018",
+      "URL": "https://ankergames.net/game/pro-evolution-soccer-2018",
+      "Week": 2195,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/pro-evolution-soccer-2018",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Pro Evolution Soccer 2018”",
+        "CheckedAt": "2026-11-01T23:11:35.250773+05:30",
+        "MatchName": "Pro Evolution Soccer 2018",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 127343,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2025/cover-g4ZxRQt3rl.jpg",
+      "Rank": 101,
+      "Size": "89.1 GB",
+      "Title": "Call of Duty: Modern Warfare II",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare-ii",
+      "Week": 4689,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Call+of+Duty%3A+Modern+Warfare+II",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:35.537273+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 126740,
+      "Genres": [
+        "Action",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-C6ObAYtluR.jpg",
+      "Rank": 102,
+      "Size": "0.4 GB",
+      "Title": "Geometry Dash",
+      "URL": "https://ankergames.net/game/geometry-dash",
+      "Week": 2016,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/geometry-dash",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Geometry Dash”",
+        "CheckedAt": "2026-11-01T23:11:35.875376+05:30",
+        "MatchName": "Geometry Dash",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 123750,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/07-2025/cover-UmyYVazogj.jpg",
+      "Rank": 103,
+      "Size": "2.6 GB",
+      "Title": "Counter-Strike: Source",
+      "URL": "https://ankergames.net/game/counter-strike-source",
+      "Week": 1876,
+      "Year": 2004,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/counter-strike-source",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Counter-Strike: Source”",
+        "CheckedAt": "2026-11-01T23:11:36.161443+05:30",
+        "MatchName": "Counter-Strike: Source",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 123220,
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2026/cover-YZgA3WDv3y.jpg",
+      "Rank": 104,
+      "Size": "1.9 GB",
+      "Title": "Hytale",
+      "URL": "https://ankergames.net/game/hytale",
+      "Week": 622,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Hytale",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:36.515863+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 122454,
+      "Genres": [
+        "Action",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/12-2024/cover-dtSGHzyj7S.jpg",
+      "Rank": 105,
+      "Size": "2.5 GB",
+      "Title": "Far Cry 2",
+      "URL": "https://ankergames.net/game/far-cry-2",
+      "Week": 1091,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/far-cry-2",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Far Cry 2”",
+        "CheckedAt": "2026-11-01T23:11:36.789676+05:30",
+        "MatchName": "Far Cry 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 120057,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-c6ZrZ5kkS1.jpg",
+      "Rank": 106,
+      "Size": "12.4 GB",
+      "Title": "Mafia II",
+      "URL": "https://ankergames.net/game/mafia-ii",
+      "Week": 1710,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/mafia-ii",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Mafia II”",
+        "CheckedAt": "2026-11-01T23:11:37.139033+05:30",
+        "MatchName": "Mafia II",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 118717,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-57lO6F5IYj.jpg",
+      "Rank": 107,
+      "Size": "76.6 GB",
+      "Title": "The Sims 4",
+      "URL": "https://ankergames.net/game/the-sims-4",
+      "Week": 1626,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-sims-4",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “The Sims 4”",
+        "CheckedAt": "2026-11-01T23:11:37.397914+05:30",
+        "MatchName": "The Sims 4",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 117908,
+      "Genres": [
+        "Simulation",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-9ZFwDbqBfI.jpg",
+      "Rank": 108,
+      "Size": "0.5 GB",
+      "Title": "Stardew Valley",
+      "URL": "https://ankergames.net/game/stardew-valley",
+      "Week": 1987,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/stardew-valley",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Stardew Valley”",
+        "CheckedAt": "2026-11-01T23:11:37.771114+05:30",
+        "MatchName": "Stardew Valley",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 117597,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-Cck7TQr8y7.jpg",
+      "Rank": 109,
+      "Size": "16.3 GB",
+      "Title": "Resident Evil 6",
+      "URL": "https://ankergames.net/game/resident-evil-6",
+      "Week": 1510,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/resident-evil-6",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Resident Evil 6”",
+        "CheckedAt": "2026-11-01T23:11:38.020394+05:30",
+        "MatchName": "Resident Evil 6",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 117335,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/12-2024/cover-rVyCtSyXby.jpg",
+      "Rank": 110,
+      "Size": "4.6 GB",
+      "Title": "Granny Escape Together",
+      "URL": "https://ankergames.net/game/granny-escape-together",
+      "Week": 923,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Granny+Escape+Together",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:38.393021+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 116503,
+      "Genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-m7hWtiZr92.jpg",
+      "Rank": 111,
+      "Size": "63.2 GB",
+      "Title": "The Witcher 3 Wild Hunt Remastered",
+      "URL": "https://ankergames.net/game/the-witcher-3-wild-hunt",
+      "Week": 2076,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=The+Witcher+3+Wild+Hunt+Remastered",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:38.658176+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 115621,
+      "Genres": [
+        "Simulation",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-RggZCTITo8.jpg",
+      "Rank": 112,
+      "Size": "4.1 GB",
+      "Title": "Garry’s Mod",
+      "URL": "https://ankergames.net/game/garry-s-mod",
+      "Week": 2268,
+      "Year": 2006,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/garrys-mod",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Garry's Mod”",
+        "CheckedAt": "2026-11-01T23:11:39.009014+05:30",
+        "MatchName": "Garry's Mod",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 115326,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/04-2025/cover-TahBttmzHk.jpg",
+      "Rank": 113,
+      "Size": "17.5 GB",
+      "Title": "Drive Beyond Horizons",
+      "URL": "https://ankergames.net/game/drive-beyond-horizons",
+      "Week": 1388,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/drive-beyond-horizons",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Drive Beyond Horizons”",
+        "CheckedAt": "2026-11-01T23:11:39.292943+05:30",
+        "MatchName": "Drive Beyond Horizons",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 115206,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-1LuQmDeKi2.jpg",
+      "Rank": 114,
+      "Size": "16.8 GB",
+      "Title": "Batman Arkham City",
+      "URL": "https://ankergames.net/game/batman-arkham-city",
+      "Week": 1844,
+      "Year": 2011,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/batman-arkham-city",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Batman: Arkham City”",
+        "CheckedAt": "2026-11-01T23:11:39.614106+05:30",
+        "MatchName": "Batman: Arkham City",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 114956,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/04-2025/cover-kNg4FAVWcz.jpg",
+      "Rank": 115,
+      "Size": "191.9 GB",
+      "Title": "Call Of Duty Modern Warfare",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare",
+      "Week": 4455,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-modern-warfare",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Call of Duty Modern Warfare”",
+        "CheckedAt": "2026-11-01T23:11:39.923007+05:30",
+        "MatchName": "Call of Duty Modern Warfare",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 114324,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-LXi0jNfwfW.jpg",
+      "Rank": 116,
+      "Size": "8 GB",
+      "Title": "Batman Arkham Asylum",
+      "URL": "https://ankergames.net/game/batman-arkham-asylum",
+      "Week": 1626,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/batman-arkham-asylum",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Batman: Arkham Asylum”",
+        "CheckedAt": "2026-11-01T23:11:40.232642+05:30",
+        "MatchName": "Batman: Arkham Asylum",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 114075,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-idXg0UNioh.jpg",
+      "Rank": 117,
+      "Size": "8 GB",
+      "Title": "Prototype",
+      "URL": "https://ankergames.net/game/prototype",
+      "Week": 3297,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/prototype",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Prototype”",
+        "CheckedAt": "2026-11-01T23:11:40.605613+05:30",
+        "MatchName": "Prototype",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 113238,
+      "Genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-XVlWkxTKCW.jpg",
+      "Rank": 118,
+      "Size": "48.7 GB",
+      "Title": "WWE 2K19",
+      "URL": "https://ankergames.net/game/wwe-2k19",
+      "Week": 1651,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/wwe-2k19",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “WWE 2K19”",
+        "CheckedAt": "2026-11-01T23:11:40.874451+05:30",
+        "MatchName": "WWE 2K19",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 111803,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-9QHru0JgJI.jpg",
+      "Rank": 119,
+      "Size": "8.2 GB",
+      "Title": "Resident Evil 5",
+      "URL": "https://ankergames.net/game/resident-evil-5",
+      "Week": 1514,
+      "Year": 2009,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/resident-evil-5",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Resident Evil 5”",
+        "CheckedAt": "2026-11-01T23:11:41.234188+05:30",
+        "MatchName": "Resident Evil 5",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 110844,
+      "Genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-1sVbUTgWoT.jpg",
+      "Rank": 120,
+      "Size": "12.7 GB",
+      "Title": "The Elder Scrolls V Skyrim",
+      "URL": "https://ankergames.net/game/the-elder-scrolls-v-skyrim",
+      "Week": 1661,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-elder-scrolls-v-skyrim",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “The Elder Scrolls V: Skyrim”",
+        "CheckedAt": "2026-11-01T23:11:41.497509+05:30",
+        "MatchName": "The Elder Scrolls V: Skyrim",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 110664,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-fOgYRrptGf.jpg",
+      "Rank": 121,
+      "Size": "7.8 GB",
+      "Title": "Need for Speed Rivals",
+      "URL": "https://ankergames.net/game/need-for-speed-rivals",
+      "Week": 1586,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Need+for+Speed+Rivals",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:42.188233+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 110270,
+      "Genres": [
+        "Simulation",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2025/cover-S0JV5kB4Y0.jpg",
+      "Rank": 122,
+      "Size": "3.2 GB",
+      "Title": "AV Director Life!",
+      "URL": "https://ankergames.net/game/av-director-life",
+      "Week": 1114,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=AV+Director+Life%21",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:42.188242+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 110119,
+      "Genres": [
+        "Action",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-c8Bwj9moaQ.jpg",
+      "Rank": 123,
+      "Size": "10.6 GB",
+      "Title": "Cities Skylines",
+      "URL": "https://ankergames.net/game/cities-skylines",
+      "Week": 1895,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/cities-skylines",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Cities: Skylines”",
+        "CheckedAt": "2026-11-01T23:11:42.822949+05:30",
+        "MatchName": "Cities: Skylines",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 110030,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ZglncuzRvL.jpg",
+      "Rank": 124,
+      "Size": "0.6 GB",
+      "Title": "Terraria",
+      "URL": "https://ankergames.net/game/terraria",
+      "Week": 1771,
+      "Year": 2011,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/terraria",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Terraria”",
+        "CheckedAt": "2026-11-01T23:11:42.824978+05:30",
+        "MatchName": "Terraria",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 109143,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-wnvA1bus8n.jpg",
+      "Rank": 125,
+      "Size": "50.7 GB",
+      "Title": "Bodycam",
+      "URL": "https://ankergames.net/game/bodycam",
+      "Week": 2209,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/bodycam",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Bodycam”",
+        "CheckedAt": "2026-11-01T23:11:43.456201+05:30",
+        "MatchName": "Bodycam",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 108819,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2025/cover-lfkFAAKxvr.jpg",
+      "Rank": 126,
+      "Size": "66.6 GB",
+      "Title": "Poppy Playtime",
+      "URL": "https://ankergames.net/game/poppy-playtime",
+      "Week": 721,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/poppy-playtime",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Poppy Playtime”",
+        "CheckedAt": "2026-11-01T23:11:43.448203+05:30",
+        "MatchName": "Poppy Playtime",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 108499,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2025/cover-ZqgRXBRx8s.jpg",
+      "Rank": 127,
+      "Size": "95.7 GB",
+      "Title": "Battlefield 6",
+      "URL": "https://ankergames.net/game/battlefield-6",
+      "Week": 891,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/battlefield-6",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Battlefield™ 6”",
+        "CheckedAt": "2026-11-01T23:11:44.075234+05:30",
+        "MatchName": "Battlefield™ 6",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 107756,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ftCoixTEDt.jpg",
+      "Rank": 128,
+      "Size": "3.1 GB",
+      "Title": "Raft",
+      "URL": "https://ankergames.net/game/raft",
+      "Week": 1582,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/raft",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Raft”",
+        "CheckedAt": "2026-11-01T23:11:44.082526+05:30",
+        "MatchName": "Raft",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 106664,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-A29XFMo3Hm.jpg",
+      "Rank": 129,
+      "Size": "24.3 GB",
+      "Title": "Rise of the Tomb Raider",
+      "URL": "https://ankergames.net/game/rise-of-the-tomb-raider",
+      "Week": 2107,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/rise-of-the-tomb-raider",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Rise of the Tomb Raider”",
+        "CheckedAt": "2026-11-01T23:11:44.682971+05:30",
+        "MatchName": "Rise of the Tomb Raider",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 106618,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/lego-batman-legacy-of-the-dark-knight-cover_Mc1gdz_1779489024.jpg",
+      "Rank": 130,
+      "Size": "38 GB",
+      "Title": "LEGO Batman: Legacy of the Dark Knight",
+      "URL": "https://ankergames.net/game/lego-batman-legacy-of-the-dark-knight",
+      "Week": 666,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/LEGO_Batman_Legacy_of_the_Dark_Knight",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “LEGO Batman: Legacy of the Dark Knight”",
+        "CheckedAt": "2026-11-01T23:11:44.701132+05:30",
+        "MatchName": "LEGO Batman: Legacy of the Dark Knight",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 105897,
+      "Genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2025/cover-PFcSpvCNVj.jpg",
+      "Rank": 131,
+      "Size": "54.5 GB",
+      "Title": "FIFA 20",
+      "URL": "https://ankergames.net/game/fifa-20",
+      "Week": 1350,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=FIFA+20",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:45.359576+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 105121,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2025/cover-G5FWTR7ze5.jpg",
+      "Rank": 132,
+      "Size": "1.1 GB",
+      "Title": "INSIDE",
+      "URL": "https://ankergames.net/game/inside",
+      "Week": 1611,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/inside",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “INSIDE”",
+        "CheckedAt": "2026-11-01T23:11:45.358522+05:30",
+        "MatchName": "INSIDE",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 103786,
+      "Genres": [
+        "Action",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-qPsZISeCbD.jpg",
+      "Rank": 133,
+      "Size": "1 GB",
+      "Title": "Buckshot Roulette",
+      "URL": "https://ankergames.net/game/buckshot-roulette",
+      "Week": 1068,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/buckshot-roulette",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Buckshot Roulette”",
+        "CheckedAt": "2026-11-01T23:11:46.067917+05:30",
+        "MatchName": "Buckshot Roulette",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 103284,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-miE742aosJ.jpg",
+      "Rank": 134,
+      "Size": "3.1 GB",
+      "Title": "Left 4 Dead",
+      "URL": "https://ankergames.net/game/left-4-dead",
+      "Week": 1450,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/left-4-dead",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Left 4 Dead”",
+        "CheckedAt": "2026-11-01T23:11:46.06827+05:30",
+        "MatchName": "Left 4 Dead",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 102552,
+      "Genres": [
+        "Action",
+        "Multiplayer"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-qXGg3HWMwH.jpg",
+      "Rank": 135,
+      "Size": "21.7 GB",
+      "Title": "JUMP FORCE",
+      "URL": "https://ankergames.net/game/jump-force",
+      "Week": 1375,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=JUMP+FORCE",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:46.789829+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 102371,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/08-2026/cover-aqUUNjuR7Z.jpg",
+      "Rank": 136,
+      "Size": "3.7 GB",
+      "Title": "Grand Theft Auto: San Andreas",
+      "URL": "https://ankergames.net/game/grand-theft-auto-san-andreas-2",
+      "Week": 9186,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-san-andreas",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Grand Theft Auto: San Andreas”",
+        "CheckedAt": "2026-11-01T23:11:04.597071+05:30",
+        "MatchName": "Grand Theft Auto: San Andreas",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 100073,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ayKvlsg6la.jpg",
+      "Rank": 137,
+      "Size": "50 GB",
+      "Title": "Call of Duty: Ghosts",
+      "URL": "https://ankergames.net/game/call-of-duty-ghosts",
+      "Week": 2592,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-ghosts",
+        "Label": "Broken",
+        "Stars": 1,
+        "Status": "broken",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 1/5 stars · matched “Call of Duty: Ghosts”",
+        "CheckedAt": "2026-11-01T23:11:47.505734+05:30",
+        "MatchName": "Call of Duty: Ghosts",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 100061,
+      "Genres": [
+        "Simulation",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/02-2025/cover-B573TlDhQV.jpg",
+      "Rank": 138,
+      "Size": "8.2 GB",
+      "Title": "Ranch Simulator",
+      "URL": "https://ankergames.net/game/ranch-simulator-build-farm-hunt",
+      "Week": 1119,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/ranch-simulator",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Ranch Simulator”",
+        "CheckedAt": "2026-11-01T23:11:46.790821+05:30",
+        "MatchName": "Ranch Simulator",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 99890,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-Q6iEtDq9Xm.jpg",
+      "Rank": 139,
+      "Size": "6.9 GB",
+      "Title": "DARK SOULS: REMASTERED",
+      "URL": "https://ankergames.net/game/dark-souls-remastered",
+      "Week": 1736,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/dark-souls-remastered",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Dark Souls Remastered”",
+        "CheckedAt": "2026-11-01T23:11:47.50418+05:30",
+        "MatchName": "Dark Souls Remastered",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 99235,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-2YFRRWdB61.jpg",
+      "Rank": 140,
+      "Size": "10.8 GB",
+      "Title": "Assassin's Creed Rogue",
+      "URL": "https://ankergames.net/game/assassins-creed-rogue",
+      "Week": 1142,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-rogue",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Assassin's Creed Rogue”",
+        "CheckedAt": "2026-11-01T23:11:48.133266+05:30",
+        "MatchName": "Assassin's Creed Rogue",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 99088,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-qQZtOXosHG.jpg",
+      "Rank": 141,
+      "Size": "68.5 GB",
+      "Title": "Call of Duty WWII",
+      "URL": "https://ankergames.net/game/call-of-duty-wwii",
+      "Week": 2468,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-wwii",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Call of Duty: WWII”",
+        "CheckedAt": "2026-11-01T23:11:48.785534+05:30",
+        "MatchName": "Call of Duty: WWII",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 99081,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-2DvkxVBTVo.jpg",
+      "Rank": 142,
+      "Size": "62.4 GB",
+      "Title": "Assassin's Creed Mirage",
+      "URL": "https://ankergames.net/game/assassins-creed-mirage",
+      "Week": 553,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-mirage",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Assassin's Creed Mirage”",
+        "CheckedAt": "2026-11-01T23:11:48.129876+05:30",
+        "MatchName": "Assassin's Creed Mirage",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 99039,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-kS2oVsMKm5.jpg",
+      "Rank": 143,
+      "Size": "52.1 GB",
+      "Title": "Detroit Become Human",
+      "URL": "https://ankergames.net/game/detroit-become-human",
+      "Week": 1390,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/detroit-become-human",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Detroit: Become Human”",
+        "CheckedAt": "2026-11-01T23:11:48.78576+05:30",
+        "MatchName": "Detroit: Become Human",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 98212,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-hyuebSoyOL.jpg",
+      "Rank": 144,
+      "Size": "110.2 GB",
+      "Title": "Call of Duty Black Ops III",
+      "URL": "https://ankergames.net/game/call-of-duty-black-ops-iii",
+      "Week": 1717,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-black-ops-iii",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Call of Duty®: Black Ops III”",
+        "CheckedAt": "2026-11-01T23:11:49.452468+05:30",
+        "MatchName": "Call of Duty®: Black Ops III",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 98116,
+      "Genres": [
+        "Simulation",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-q5hg4keQs6.jpg",
+      "Rank": 145,
+      "Size": "0.4 GB",
+      "Title": "My Summer Car",
+      "URL": "https://ankergames.net/game/my-summer-car",
+      "Week": 766,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/my-summer-car",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “My Summer Car”",
+        "CheckedAt": "2026-11-01T23:11:49.452684+05:30",
+        "MatchName": "My Summer Car",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 97893,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-PVKc6pA29k.jpg",
+      "Rank": 146,
+      "Size": "5.3 GB",
+      "Title": "DRAGON BALL FighterZ",
+      "URL": "https://ankergames.net/game/dragon-ball-fighterz",
+      "Week": 1699,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/dragon-ball-fighterz",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Dragon Ball FighterZ”",
+        "CheckedAt": "2026-11-01T23:11:50.17028+05:30",
+        "MatchName": "Dragon Ball FighterZ",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 97858,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-RTYMAwIUjb.jpg",
+      "Rank": 147,
+      "Size": "59.6 GB",
+      "Title": "RESIDENT EVIL 7 biohazard",
+      "URL": "https://ankergames.net/game/resident-evil-7-biohazard",
+      "Week": 1753,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/resident-evil-7-biohazard",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Resident Evil 7 Biohazard”",
+        "CheckedAt": "2026-11-01T23:11:50.169763+05:30",
+        "MatchName": "Resident Evil 7 Biohazard",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 97748,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/04-2025/cover-MgjMRYCiaV.webp",
+      "Rank": 148,
+      "Size": "42.9 GB",
+      "Title": "Clair Obscur: Expedition 33",
+      "URL": "https://ankergames.net/game/clair-obscur-expedition-33",
+      "Week": 950,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/clair-obscur-expedition-33",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Clair Obscur: Expedition 33”",
+        "CheckedAt": "2026-11-01T23:11:50.804574+05:30",
+        "MatchName": "Clair Obscur: Expedition 33",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 97256,
+      "Genres": [
+        "Simulation",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-lgXtsEAJ2w.jpg",
+      "Rank": 149,
+      "Size": "17 GB",
+      "Title": "CarX Street",
+      "URL": "https://ankergames.net/game/carx-street",
+      "Week": 1367,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/carx-street",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “CarX Street”",
+        "CheckedAt": "2026-11-01T23:11:50.801971+05:30",
+        "MatchName": "CarX Street",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 97136,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-ohCN3Vi12Y.jpg",
+      "Rank": 150,
+      "Size": "6.8 GB",
+      "Title": "Hearts of Iron IV",
+      "URL": "https://ankergames.net/game/hearts-of-iron-iv",
+      "Week": 3075,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hearts-of-iron-iv",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Hearts of Iron IV”",
+        "CheckedAt": "2026-11-01T23:11:51.602605+05:30",
+        "MatchName": "Hearts of Iron IV",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 96528,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/08-2025/cover-Ws53CuoMEU.jpg",
+      "Rank": 151,
+      "Size": "47.2 GB",
+      "Title": "Call of Duty: Black Ops 6",
+      "URL": "https://ankergames.net/game/call-of-duty-black-ops-6",
+      "Week": 1872,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-black-ops-6",
+        "Label": "Broken",
+        "Stars": 1,
+        "Status": "broken",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 1/5 stars · matched “Call of Duty®: Black Ops 6”",
+        "CheckedAt": "2026-11-01T23:11:51.602848+05:30",
+        "MatchName": "Call of Duty®: Black Ops 6",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 94425,
+      "Genres": [
+        "Simulation",
+        "Multiplayer"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-iLnxaNRPvK.jpg",
+      "Rank": 152,
+      "Size": "25.3 GB",
+      "Title": "Farming Simulator 22",
+      "URL": "https://ankergames.net/game/farming-simulator-22",
+      "Week": 950,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Farming+Simulator+22",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:52.219497+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 94378,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-dWOA1UOCEN.jpg",
+      "Rank": 153,
+      "Size": "1.8 GB",
+      "Title": "Hello Neighbor",
+      "URL": "https://ankergames.net/game/hello-neighbor",
+      "Week": 882,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hello-neighbor",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Hello Neighbor”",
+        "CheckedAt": "2026-11-01T23:11:52.231356+05:30",
+        "MatchName": "Hello Neighbor",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 92477,
+      "Genres": [
+        "Fantasy",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2026/cover-batDmzDyBB.jpg",
+      "Rank": 154,
+      "Size": "1.5 GB",
+      "Title": "Slay the Spire 2",
+      "URL": "https://ankergames.net/game/slay-the-spire-2",
+      "Week": 1234,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/slay-the-spire-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Slay the Spire 2”",
+        "CheckedAt": "2026-11-01T23:11:52.852613+05:30",
+        "MatchName": "Slay the Spire 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 92080,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/cover-2uLTUZ5MHw.webp",
+      "Rank": 155,
+      "Size": "4.8 GB",
+      "Title": "FEMBOY FUTA HOUSE",
+      "URL": "https://ankergames.net/game/femboy-futa-house",
+      "Week": 2353,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=FEMBOY+FUTA+HOUSE",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:53.126583+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 91222,
+      "Genres": [
+        "Action",
+        "Strategy"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-Yg9c85uiX2.jpg",
+      "Rank": 156,
+      "Size": "3.4 GB",
+      "Title": "Age Of Empires II",
+      "URL": "https://ankergames.net/game/age-of-empires-ii-hd",
+      "Week": 1248,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/age-of-empires-ii",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Age of Empires II”",
+        "CheckedAt": "2026-11-01T23:11:53.721667+05:30",
+        "MatchName": "Age of Empires II",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 91057,
+      "Genres": [
+        "Action",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/06-2026/cover-YBFVxfLCJ4.jpg",
+      "Rank": 157,
+      "Size": "29.3 GB",
+      "Title": "FIFA 17",
+      "URL": "https://ankergames.net/game/fifa-17",
+      "Week": 2921,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/fifa-17",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “FIFA 17”",
+        "CheckedAt": "2026-11-01T23:11:54.373381+05:30",
+        "MatchName": "FIFA 17",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 90935,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-vfsLka05Dq.jpg",
+      "Rank": 158,
+      "Size": "68.9 GB",
+      "Title": "Hogwarts Legacy",
+      "URL": "https://ankergames.net/game/hogwarts-legacy",
+      "Week": 921,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hogwarts-legacy",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Hogwarts Legacy”",
+        "CheckedAt": "2026-11-01T23:11:53.750363+05:30",
+        "MatchName": "Hogwarts Legacy",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 89904,
+      "Genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-igYUd1vY31.jpg",
+      "Rank": 159,
+      "Size": "131.7 GB",
+      "Title": "Baldur’s Gate 3",
+      "URL": "https://ankergames.net/game/baldurs-gate-3",
+      "Week": 1218,
+      "Year": 2023,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/baldurs-gate-3",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Baldur's Gate 3”",
+        "CheckedAt": "2026-11-01T23:11:54.371795+05:30",
+        "MatchName": "Baldur's Gate 3",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 89414,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-KToRGrH8ml.jpg",
+      "Rank": 160,
+      "Size": "71.4 GB",
+      "Title": "Tom Clancy’s Ghost Recon Wildlands",
+      "URL": "https://ankergames.net/game/tom-clancy-s-ghost-recon-wildlands",
+      "Week": 1259,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/tom-clancys-ghost-recon-wildlands",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Tom Clancy's Ghost Recon® Wildlands”",
+        "CheckedAt": "2026-11-01T23:11:55.003963+05:30",
+        "MatchName": "Tom Clancy's Ghost Recon® Wildlands",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 89324,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-UuUiUVMuwk.jpg",
+      "Rank": 161,
+      "Size": "6.7 GB",
+      "Title": "NARUTO SHIPPUDEN Ultimate Ninja STORM 2",
+      "URL": "https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-2",
+      "Week": 1436,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=NARUTO+SHIPPUDEN+Ultimate+Ninja+STORM+2",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:55.007277+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 88575,
+      "Genres": [
+        "Casual",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-WyGiqXc8sm.jpg",
+      "Rank": 162,
+      "Size": "0.1 GB",
+      "Title": "Balatro",
+      "URL": "https://ankergames.net/game/balatro",
+      "Week": 1165,
+      "Year": 2024,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/balatro",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Balatro”",
+        "CheckedAt": "2026-11-01T23:11:55.632154+05:30",
+        "MatchName": "Balatro",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 88398,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-HmxGZkgm39.jpg",
+      "Rank": 163,
+      "Size": "4.8 GB",
+      "Title": "Outlast",
+      "URL": "https://ankergames.net/game/outlast",
+      "Week": 1965,
+      "Year": 2013,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/outlast",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Outlast”",
+        "CheckedAt": "2026-11-01T23:11:55.623504+05:30",
+        "MatchName": "Outlast",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 87913,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-1uEQKiJ2Eb.jpg",
+      "Rank": 164,
+      "Size": "0.6 GB",
+      "Title": "Max Payne",
+      "URL": "https://ankergames.net/game/max-payne",
+      "Week": 1021,
+      "Year": 2001,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/max-payne",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Max Payne”",
+        "CheckedAt": "2026-11-01T23:11:56.251687+05:30",
+        "MatchName": "Max Payne",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 87534,
+      "Genres": [
+        "Simulation",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2025/cover-Pq2kYnFTB4.jpg",
+      "Rank": 165,
+      "Size": "16.2 GB",
+      "Title": "Quarantine Zone: The Last Check",
+      "URL": "https://ankergames.net/game/quarantine-zone-the-last-check",
+      "Week": 728,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/quarantine-zone-the-last-check",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Quarantine Zone: The Last Check”",
+        "CheckedAt": "2026-11-01T23:11:56.25504+05:30",
+        "MatchName": "Quarantine Zone: The Last Check",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 86880,
+      "Genres": [
+        "Adventure",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-87YRLQcAxg.jpg",
+      "Rank": 166,
+      "Size": "13.8 GB",
+      "Title": "Stray",
+      "URL": "https://ankergames.net/game/stray",
+      "Week": 1006,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/stray",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Stray”",
+        "CheckedAt": "2026-11-01T23:11:56.889825+05:30",
+        "MatchName": "Stray",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 86524,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-DcaqVZTMgs.jpg",
+      "Rank": 167,
+      "Size": "7.7 GB",
+      "Title": "Assassin's Creed Revelations",
+      "URL": "https://ankergames.net/game/assassins-creed-revelations",
+      "Week": 1135,
+      "Year": 2011,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-revelations",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Assassin's Creed Revelations”",
+        "CheckedAt": "2026-11-01T23:11:56.880725+05:30",
+        "MatchName": "Assassin's Creed Revelations",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 86218,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-khbCSDHpBB.jpg",
+      "Rank": 168,
+      "Size": "29.8 GB",
+      "Title": "Max Payne 3",
+      "URL": "https://ankergames.net/game/max-payne-3",
+      "Week": 1371,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/max-payne-3",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Max Payne 3”",
+        "CheckedAt": "2026-11-01T23:11:57.543062+05:30",
+        "MatchName": "Max Payne 3",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 85177,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-odNoIt2wvB.jpg",
+      "Rank": 169,
+      "Size": "1.5 GB",
+      "Title": "The Binding of Isaac: Rebirth",
+      "URL": "https://ankergames.net/game/the-binding-of-isaac-rebirth",
+      "Week": 1108,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-binding-of-isaac-rebirth",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “The Binding of Isaac: Rebirth”",
+        "CheckedAt": "2026-11-01T23:11:57.544784+05:30",
+        "MatchName": "The Binding of Isaac: Rebirth",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 84750,
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-hW0rZSnFyQ.jpg",
+      "Rank": 170,
+      "Size": "41 GB",
+      "Title": "F1 22",
+      "URL": "https://ankergames.net/game/f1-22",
+      "Week": 1514,
+      "Year": 2022,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=F1+22",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:58.205808+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 84593,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-f9KIOos1mB.jpg",
+      "Rank": 171,
+      "Size": "65.4 GB",
+      "Title": "Hitman",
+      "URL": "https://ankergames.net/game/hitman",
+      "Week": 1389,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/hitman",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “HITMAN™”",
+        "CheckedAt": "2026-11-01T23:11:58.439943+05:30",
+        "MatchName": "HITMAN™",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 84355,
+      "Genres": [
+        "Simulation",
+        "Multiplayer"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-ZLMr6C3QOn.jpg",
+      "Rank": 172,
+      "Size": "9.4 GB",
+      "Title": "Farming Simulator 19",
+      "URL": "https://ankergames.net/game/farming-simulator-19",
+      "Week": 866,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/farming-simulator-19",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Farming Simulator 19”",
+        "CheckedAt": "2026-11-01T23:11:58.828058+05:30",
+        "MatchName": "Farming Simulator 19",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 83686,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-SU3ZlzsT1g.jpg",
+      "Rank": 173,
+      "Size": "44.6 GB",
+      "Title": "It Takes Two",
+      "URL": "https://ankergames.net/game/it-takes-two",
+      "Week": 1707,
+      "Year": 2021,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/it-takes-two",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “It Takes Two”",
+        "CheckedAt": "2026-11-01T23:11:59.063439+05:30",
+        "MatchName": "It Takes Two",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 83594,
+      "Genres": [
+        "Action",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-aCdTtraTzN.jpg",
+      "Rank": 174,
+      "Size": "8 GB",
+      "Title": "Call of Duty World at War",
+      "URL": "https://ankergames.net/game/call-of-duty-world-at-war",
+      "Week": 1686,
+      "Year": 2008,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-world-at-war",
+        "Label": "Broken",
+        "Stars": 1,
+        "Status": "broken",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 1/5 stars · matched “Call of Duty: World at War”",
+        "CheckedAt": "2026-11-01T23:11:59.439269+05:30",
+        "MatchName": "Call of Duty: World at War",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 82824,
+      "Genres": [
+        "Action",
+        "War"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/12-2024/cover-MTHGmr8PzQ.jpg",
+      "Rank": 175,
+      "Size": "8.3 GB",
+      "Title": "Battlefield: Bad Company 2",
+      "URL": "https://ankergames.net/game/battlefield-bad-company-2",
+      "Week": 1242,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/battlefield-bad-company-2",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Battlefield Bad Company 2”",
+        "CheckedAt": "2026-11-01T23:11:59.686342+05:30",
+        "MatchName": "Battlefield Bad Company 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 82727,
+      "Genres": [
+        "Action",
+        "Horror"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-S5qtrSSZgX.jpg",
+      "Rank": 176,
+      "Size": "0.8 GB",
+      "Title": "Getting Over It with Bennett Foddy",
+      "URL": "https://ankergames.net/game/getting-over-it-with-bennett-foddy",
+      "Week": 1169,
+      "Year": 2017,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/getting-over-it-with-bennett-foddy",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Getting Over It with Bennett Foddy”",
+        "CheckedAt": "2026-11-01T23:12:00.056782+05:30",
+        "MatchName": "Getting Over It with Bennett Foddy",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 82575,
+      "Genres": [
+        "Adventure",
+        "Racing"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-T6lBnI9bgo.jpg",
+      "Rank": 177,
+      "Size": "13.3 GB",
+      "Title": "Need For Speed The Run",
+      "URL": "https://ankergames.net/game/need-for-speed-the-run",
+      "Week": 966,
+      "Year": 2011,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/need-for-speed-the-run",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Need for Speed: The Run”",
+        "CheckedAt": "2026-11-01T23:12:00.305216+05:30",
+        "MatchName": "Need for Speed: The Run",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 82370,
+      "Genres": [
+        "Simulation",
+        "Casual"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2025/cover-jmKLhdnjcp.jpg",
+      "Rank": 178,
+      "Size": "55.6 GB",
+      "Title": "EA SPORTS FIFA 21",
+      "URL": "https://ankergames.net/game/ea-sports-fifa-21",
+      "Week": 1090,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=EA+SPORTS+FIFA+21",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:12:00.678125+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 82295,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-f4VSRNexRE.jpg",
+      "Rank": 179,
+      "Size": "26.5 GB",
+      "Title": "American Truck Simulator",
+      "URL": "https://ankergames.net/game/american-truck-simulator",
+      "Week": 1349,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/american-truck-simulator-138",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “American Truck Simulator”",
+        "CheckedAt": "2026-11-01T23:12:00.926292+05:30",
+        "MatchName": "American Truck Simulator",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 81578,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-eCSeDHGZGK.jpg",
+      "Rank": 180,
+      "Size": "40 GB",
+      "Title": "Assassin's Creed Unity",
+      "URL": "https://ankergames.net/game/assassins-creed-unity",
+      "Week": 1034,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-unity",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Assassin's Creed Unity”",
+        "CheckedAt": "2026-11-01T23:12:01.284082+05:30",
+        "MatchName": "Assassin's Creed Unity",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 80864,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-3vfww9bLQq.jpg",
+      "Rank": 181,
+      "Size": "150 GB",
+      "Title": "Mortal Kombat 11",
+      "URL": "https://ankergames.net/game/mortal-kombat-11",
+      "Week": 731,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/mortal-kombat-11",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Mortal Kombat 11”",
+        "CheckedAt": "2026-11-01T23:12:01.554824+05:30",
+        "MatchName": "Mortal Kombat 11",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 80771,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/cover-kxUFTE5Kcd.jpg",
+      "Rank": 182,
+      "Size": "1 GB",
+      "Title": "Gamble With Your Friends",
+      "URL": "https://ankergames.net/game/gamble-with-your-friends",
+      "Week": 1239,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/gamble-with-your-friends",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Gamble With Your Friends”",
+        "CheckedAt": "2026-11-01T23:12:01.861948+05:30",
+        "MatchName": "Gamble With Your Friends",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 80729,
+      "Genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/07-2026/cover-GSj2uXT6Ye.jpg",
+      "Rank": 183,
+      "Size": "0.4 GB",
+      "Title": "Shift At Midnight",
+      "URL": "https://ankergames.net/game/shift-at-midnight",
+      "Week": 1717,
+      "Year": 2026,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/shift-at-midnight",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Shift At Midnight”",
+        "CheckedAt": "2026-11-01T23:12:02.166849+05:30",
+        "MatchName": "Shift At Midnight",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 80625,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-oBTKpQaErl.jpg",
+      "Rank": 184,
+      "Size": "15.9 GB",
+      "Title": "Prototype 2",
+      "URL": "https://ankergames.net/game/prototype-2",
+      "Week": 1539,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/prototype-2",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Prototype 2”",
+        "CheckedAt": "2026-11-01T23:12:02.451717+05:30",
+        "MatchName": "Prototype 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 80340,
+      "Genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-UvhGCPQQGh.jpg",
+      "Rank": 185,
+      "Size": "57.4 GB",
+      "Title": "DRAGON BALL Z KAKAROT",
+      "URL": "https://ankergames.net/game/dragon-ball-z-kakarot",
+      "Week": 1339,
+      "Year": 2020,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/dragon-ball-z-kakarot",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “DRAGON BALL Z: KAKAROT”",
+        "CheckedAt": "2026-11-01T23:12:02.771988+05:30",
+        "MatchName": "DRAGON BALL Z: KAKAROT",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 80312,
+      "Genres": [
+        "Action",
+        "Fighting"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/06-2025/cover-uctlg06ZJ7.jpg",
+      "Rank": 186,
+      "Size": "8.7 GB",
+      "Title": "Mortal Kombat Komplete Edition",
+      "URL": "https://ankergames.net/game/mortal-kombat-komplete-edition",
+      "Week": 1453,
+      "Year": 2012,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Mortal+Kombat+Komplete+Edition",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:12:03.071616+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 79731,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-EhNqc4n4BY.jpg",
+      "Rank": 187,
+      "Size": "3.7 GB",
+      "Title": "Just Cause 2",
+      "URL": "https://ankergames.net/game/just-cause-2",
+      "Week": 851,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/just-cause-2",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Just Cause 2”",
+        "CheckedAt": "2026-11-01T23:12:03.39946+05:30",
+        "MatchName": "Just Cause 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 79436,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-dBnL5jcgEo.jpg",
+      "Rank": 188,
+      "Size": "1.2 GB",
+      "Title": "Max Payne 2 The Fall of Max Payne",
+      "URL": "https://ankergames.net/game/max-payne-2-the-fall-of-max-payne",
+      "Week": 1067,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Max+Payne+2+The+Fall+of+Max+Payne",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:12:03.667463+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 78392,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-RIzIgJdEmN.jpg",
+      "Rank": 189,
+      "Size": "4.1 GB",
+      "Title": "The Forest",
+      "URL": "https://ankergames.net/game/the-forest",
+      "Week": 1335,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-forest",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “The Forest”",
+        "CheckedAt": "2026-11-01T23:12:04.024857+05:30",
+        "MatchName": "The Forest",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 77998,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-0wPATq2S8X.jpg",
+      "Rank": 190,
+      "Size": "21.1 GB",
+      "Title": "A Way Out",
+      "URL": "https://ankergames.net/game/a-way-out",
+      "Week": 1442,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/a-way-out",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “A Way Out”",
+        "CheckedAt": "2026-11-01T23:12:04.28034+05:30",
+        "MatchName": "A Way Out",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 77692,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/cover-eSGEBbmgg6.jpg",
+      "Rank": 191,
+      "Size": "34.8 GB",
+      "Title": "God of War III Remastered",
+      "URL": "https://ankergames.net/game/god-of-war-iii-remastered",
+      "Week": 20820,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=God+of+War+III+Remastered",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:02.550035+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 77654,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-J0MESiebpZ.jpg",
+      "Rank": 192,
+      "Size": "26.6 GB",
+      "Title": "Assassin's Creed III",
+      "URL": "https://ankergames.net/game/assassins-creed-iii",
+      "Week": 990,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/assassins-creed-iii",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Assassin's Creed III”",
+        "CheckedAt": "2026-11-01T23:12:04.648179+05:30",
+        "MatchName": "Assassin's Creed III",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 77487,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-1TSFa8U6W4.jpg",
+      "Rank": 193,
+      "Size": "17 GB",
+      "Title": "Far Cry Primal",
+      "URL": "https://ankergames.net/game/far-cry-primal",
+      "Week": 1011,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/far-cry-primal",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Far Cry Primal”",
+        "CheckedAt": "2026-11-01T23:12:04.866665+05:30",
+        "MatchName": "Far Cry Primal",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 77343,
+      "Genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2025/cover-Kby181ZYbO.jpg",
+      "Rank": 194,
+      "Size": "1.2 GB",
+      "Title": "No, I'm not a Human",
+      "URL": "https://ankergames.net/game/no-i-m-not-a-human",
+      "Week": 686,
+      "Year": 2025,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/no-im-not-a-human",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “No, I'm not a Human”",
+        "CheckedAt": "2026-11-01T23:12:05.25777+05:30",
+        "MatchName": "No, I'm not a Human",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 76923,
+      "Genres": [
+        "Action",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2025/cover-lkiRnQdRaT.png",
+      "Rank": 195,
+      "Size": "34.9 GB",
+      "Title": "The Crew 2",
+      "URL": "https://ankergames.net/game/the-crew-2",
+      "Week": 835,
+      "Year": 2018,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/the-crew-2",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “The Crew 2”",
+        "CheckedAt": "2026-11-01T23:12:05.480058+05:30",
+        "MatchName": "The Crew 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 75896,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-kJeJjd5WXT.jpg",
+      "Rank": 196,
+      "Size": "0.8 GB",
+      "Title": "Gang Beasts",
+      "URL": "https://ankergames.net/game/gang-beasts",
+      "Week": 1145,
+      "Year": 2014,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/gang-beasts",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Gang Beasts”",
+        "CheckedAt": "2026-11-01T23:12:06.097779+05:30",
+        "MatchName": "Gang Beasts",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 75835,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2026/cover-L5XAPRZN8f.jpg",
+      "Rank": 197,
+      "Size": "7.9 GB",
+      "Title": "Spider-Man: Shattered Dimensions",
+      "URL": "https://ankergames.net/game/spider-man-shattered-dimensions",
+      "Week": 839,
+      "Year": 2010,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Spider-Man%3A+Shattered+Dimensions",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:12:05.879317+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 75408,
+      "Genres": [
+        "RPG",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/01-2025/cover-rPKLUSPtSk.jpg",
+      "Rank": 198,
+      "Size": "0.1 GB",
+      "Title": "Undertale",
+      "URL": "https://ankergames.net/game/undertale",
+      "Week": 1099,
+      "Year": 2015,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/undertale",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Undertale”",
+        "CheckedAt": "2026-11-01T23:12:06.502706+05:30",
+        "MatchName": "Undertale",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 75359,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-SptqdaqIgM.jpg",
+      "Rank": 199,
+      "Size": "60.9 GB",
+      "Title": "Days Gone",
+      "URL": "https://ankergames.net/game/days-gone",
+      "Week": 1376,
+      "Year": 2019,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/days-gone",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Days Gone”",
+        "CheckedAt": "2026-11-01T23:12:06.694527+05:30",
+        "MatchName": "Days Gone",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 74358,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-Y8mMyo6EkZ.jpg",
+      "Rank": 200,
+      "Size": "25.1 GB",
+      "Title": "DARK SOULS III",
+      "URL": "https://ankergames.net/game/dark-souls-iii",
+      "Week": 1391,
+      "Year": 2016,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/dark-souls-iii",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Dark Souls III”",
+        "CheckedAt": "2026-11-01T23:12:07.16757+05:30",
+        "MatchName": "Dark Souls III",
+        "MatchVersion": 3
+      }
+    }
+  ],
+  "Trending": [
+    {
+      "Downloads": 44833,
+      "Genres": [],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/call-of-duty-modern-warfare-4-cover_lwCzjx_1792346950.png",
+      "Move": "No.1",
+      "MoveClass": "crown",
+      "Peak": "No.1",
+      "Rank": 1,
+      "Title": "Call of Duty: Modern Warfare 4",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare-4",
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Call+of+Duty%3A+Modern+Warfare+4",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:00.519297+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 35189,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-YKQp70NXrg.jpg",
+      "Move": "▲ 1",
+      "MoveClass": "up",
+      "Peak": "No.1",
+      "Rank": 2,
+      "Title": "Grand Theft Auto V",
+      "URL": "https://ankergames.net/game/grand-theft-auto-v",
+      "Weeks": 18,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-v",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Grand Theft Auto V Legacy Edition”",
+        "CheckedAt": "2026-11-01T23:11:00.53082+05:30",
+        "MatchName": "Grand Theft Auto V Legacy Edition",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 32997,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/cover-ETybq1Qg0i.jpg",
+      "Move": "▼ 1",
+      "MoveClass": "down",
+      "Peak": "No.2",
+      "Rank": 3,
+      "Title": "Moon Sweepers",
+      "URL": "https://ankergames.net/game/moon-sweepers",
+      "Weeks": 2,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/moon-sweepers",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Moon Sweepers”",
+        "CheckedAt": "2026-11-01T23:11:01.221869+05:30",
+        "MatchName": "Moon Sweepers",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 20739,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/cover-eSGEBbmgg6.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.2",
+      "Rank": 4,
+      "Title": "God of War III Remastered",
+      "URL": "https://ankergames.net/game/god-of-war-iii-remastered",
+      "Weeks": 4,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=God+of+War+III+Remastered",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:02.550035+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 19326,
+      "Genres": [
+        "Action",
+        "RPG"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-o3bDlk9pyg.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.5",
+      "Rank": 5,
+      "Title": "Cyberpunk 2077",
+      "URL": "https://ankergames.net/game/cyberpunk-2077",
+      "Weeks": 3,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/cyberpunk-2077",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Cyberpunk 2077”",
+        "CheckedAt": "2026-11-01T23:11:03.175226+05:30",
+        "MatchName": "Cyberpunk 2077",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 14498,
+      "Genres": [
+        "Adventure",
+        "Mystery"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/crack-cover_qypySa_1793094118.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.6",
+      "Rank": 6,
+      "Title": "CRACK",
+      "URL": "https://ankergames.net/game/crack",
+      "Weeks": 2,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=CRACK",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:04.430922+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 12609,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/cover-WiSxNo40zx.webp",
+      "Move": "▲ 10",
+      "MoveClass": "up",
+      "Peak": "No.7",
+      "Rank": 7,
+      "Title": "Onimusha: Way of the Sword",
+      "URL": "https://ankergames.net/game/onimusha-way-of-the-sword",
+      "Weeks": 2,
+      "Compat": {
+        "Status": "untested",
+        "Label": "Untested",
+        "Stars": 0,
+        "URL": "https://www.codeweavers.com/compatibility?name=Onimusha%3A%20Way%20of%20the%20Sword",
+        "Tooltip": "No CrossOver Mac rating is saved for this game yet.",
+        "Checked": false
+      }
+    },
+    {
+      "Downloads": 12586,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/03-2025/cover-mcjSyGzY5p.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.3",
+      "Rank": 8,
+      "Title": "Grand Theft Auto V Enhanced",
+      "URL": "https://ankergames.net/game/grand-theft-auto-v-enhanced",
+      "Weeks": 18,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-v-enhanced",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Grand Theft Auto V Enhanced”",
+        "CheckedAt": "2026-11-01T23:11:01.221745+05:30",
+        "MatchName": "Grand Theft Auto V Enhanced",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 12338,
+      "Genres": [
+        "Action",
+        "Crime"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/scam-with-your-friends-cover_NeoYkb_1792091465.jpg",
+      "Move": "▼ 2",
+      "MoveClass": "down",
+      "Peak": "No.6",
+      "Rank": 9,
+      "Title": "Scam With Your Friends",
+      "URL": "https://ankergames.net/game/scam-with-your-friends",
+      "Weeks": 3,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Scam+With+Your+Friends",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:03.806683+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 11760,
+      "Genres": [
+        "Crime",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/probably-stolen-cyberpunk-shopkeeper-sim-cover_YTcEFd_1793207894.jpg",
+      "Move": "▲ 1",
+      "MoveClass": "up",
+      "Peak": "No.10",
+      "Rank": 10,
+      "Title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "URL": "https://ankergames.net/game/probably-stolen-cyberpunk-shopkeeper-sim",
+      "Weeks": 2,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Probably+Stolen+-+Cyberpunk+Shopkeeper+Sim",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:08.021869+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 11690,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-Z2dlMs3bGW.jpg",
+      "Move": "▼ 2",
+      "MoveClass": "down",
+      "Peak": "No.3",
+      "Rank": 11,
+      "Title": "Grand Theft Auto IV",
+      "URL": "https://ankergames.net/game/grand-theft-auto-iv",
+      "Weeks": 18,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-iv",
+        "Label": "Some issues",
+        "Stars": 3,
+        "Status": "playable",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 3/5 stars · matched “Grand Theft Auto IV”",
+        "CheckedAt": "2026-11-01T23:11:01.853854+05:30",
+        "MatchName": "Grand Theft Auto IV",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 11053,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/cover-4tP1OCzIJi.webp",
+      "Move": "▼ 2",
+      "MoveClass": "down",
+      "Peak": "No.4",
+      "Rank": 12,
+      "Title": "Bloodborne",
+      "URL": "https://ankergames.net/game/bloodborne",
+      "Weeks": 3,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=Bloodborne",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:05.685003+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 10390,
+      "Genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2026/cover-tgs14v9AZx.jpg",
+      "Move": "▼ 1",
+      "MoveClass": "down",
+      "Peak": "No.2",
+      "Rank": 13,
+      "Title": "over the hill",
+      "URL": "https://ankergames.net/game/over-the-hill",
+      "Weeks": 4,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/over-the-hill",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “over the hill”",
+        "CheckedAt": "2026-11-01T23:11:06.311926+05:30",
+        "MatchName": "over the hill",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 10076,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/11-2024/cover-KGHcNJbH32.jpg",
+      "Move": "▼ 1",
+      "MoveClass": "down",
+      "Peak": "No.2",
+      "Rank": 14,
+      "Title": "Minecraft",
+      "URL": "https://ankergames.net/game/minecraft",
+      "Weeks": 18,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/minecraft",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Minecraft”",
+        "CheckedAt": "2026-11-01T23:11:02.732046+05:30",
+        "MatchName": "Minecraft",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 10010,
+      "Genres": [
+        "Simulation",
+        "Indie"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-LBGa2ys7d5.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.8",
+      "Rank": 15,
+      "Title": "Euro Truck Simulator 2",
+      "URL": "https://ankergames.net/game/euro-truck-simulator-2",
+      "Weeks": 17,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/euro-truck-simulator-2",
+        "Label": "Runs great",
+        "Stars": 5,
+        "Status": "great",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 5/5 stars · matched “Euro Truck Simulator 2”",
+        "CheckedAt": "2026-11-01T23:11:05.235238+05:30",
+        "MatchName": "Euro Truck Simulator 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 9938,
+      "Genres": [
+        "Action",
+        "Shooters"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-xibSigu2GI.jpg",
+      "Move": "▼ 2",
+      "MoveClass": "down",
+      "Peak": "No.14",
+      "Rank": 16,
+      "Title": "Call of Duty Modern Warfare 2",
+      "URL": "https://ankergames.net/game/call-of-duty-modern-warfare-2",
+      "Weeks": 4,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/call-of-duty-modern-warfare-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Call of Duty: Modern Warfare 2”",
+        "CheckedAt": "2026-11-01T23:11:07.10282+05:30",
+        "MatchName": "Call of Duty: Modern Warfare 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 9628,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/09-2024/cover-eG7n5Hzv45.jpg",
+      "Move": "▲ 1",
+      "MoveClass": "up",
+      "Peak": "No.7",
+      "Rank": 17,
+      "Title": "Red Dead Redemption 2",
+      "URL": "https://ankergames.net/game/red-dead-redemption-2",
+      "Weeks": 18,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/red-dead-redemption-2",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Red Dead Redemption 2”",
+        "CheckedAt": "2026-11-01T23:11:05.048509+05:30",
+        "MatchName": "Red Dead Redemption 2",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 9573,
+      "Genres": [
+        "Simulation",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/10-2024/cover-c0nRxErLSG.jpg",
+      "Move": "▼ 2",
+      "MoveClass": "down",
+      "Peak": "No.12",
+      "Rank": 18,
+      "Title": "BeamNG.drive",
+      "URL": "https://ankergames.net/game/beamng-drive",
+      "Weeks": 10,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility?name=BeamNG.drive",
+        "Label": "No report",
+        "Stars": 0,
+        "Status": "none",
+        "Checked": true,
+        "Tooltip": "No matching CrossOver report. Open the CodeWeavers search.",
+        "CheckedAt": "2026-11-01T23:11:08.334894+05:30",
+        "MatchName": "",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 9186,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/08-2026/cover-aqUUNjuR7Z.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.3",
+      "Rank": 19,
+      "Title": "Grand Theft Auto: San Andreas",
+      "URL": "https://ankergames.net/game/grand-theft-auto-san-andreas-2",
+      "Weeks": 11,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/grand-theft-auto-san-andreas",
+        "Label": "Runs well",
+        "Stars": 4,
+        "Status": "good",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 4/5 stars · matched “Grand Theft Auto: San Andreas”",
+        "CheckedAt": "2026-11-01T23:11:04.597071+05:30",
+        "MatchName": "Grand Theft Auto: San Andreas",
+        "MatchVersion": 3
+      }
+    },
+    {
+      "Downloads": 8828,
+      "Genres": [
+        "Simulation",
+        "Open World"
+      ],
+      "Image": "https://ankergames.net/uploads/poster/05-2026/cover-bLIBmyNLYW.jpg",
+      "Move": "",
+      "MoveClass": "",
+      "Peak": "No.3",
+      "Rank": 20,
+      "Title": "Forza Horizon 6",
+      "URL": "https://ankergames.net/game/forza-horizon-6",
+      "Weeks": 18,
+      "Compat": {
+        "URL": "https://www.codeweavers.com/compatibility/crossover/forza-horizon-6",
+        "Label": "Major issues",
+        "Stars": 2,
+        "Status": "issues",
+        "Checked": true,
+        "Tooltip": "CrossOver Mac: 2/5 stars · matched “Forza Horizon 6”",
+        "CheckedAt": "2026-11-01T23:11:03.964864+05:30",
+        "MatchName": "Forza Horizon 6",
+        "MatchVersion": 3
+      }
+    }
+  ],
+  "UpdatedAt": "2026-11-02T17:23:08.854Z",
+  "TopUpdatedAt": "2026-11-02T17:23:08.854Z",
+  "TrendingUpdatedAt": "2026-11-02T17:23:08.854Z",
+  "Errors": []
+}

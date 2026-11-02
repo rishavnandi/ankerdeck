@@ -4,9 +4,9 @@
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;450;500;600;650&amp;family=Geist+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/static/app.css?v=4">
+<link rel="stylesheet" href="/static/app.css?v=5">
 <script src="/static/theme.js?v=3"></script>
-<script src="/static/htmx.min.js" defer></script><script src="/static/app.js?v=5" defer></script>
+<script src="/static/app.js?v=6" defer></script>
 {{end}}
 {{define "header"}}
 <a class="skip-link" href="#main">Skip to content</a>
@@ -19,9 +19,6 @@
 </nav>
 <div class="header-right"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch color theme"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20.9 13A9 9 0 0 1 11 3.1 9 9 0 1 0 20.9 13Z"/></svg></button></div>
 </div></header>
-{{end}}
-{{define "refresh"}}
-<div class="refresh-control"><button class="refresh-button" hx-post="/refresh" hx-target="#refresh-result" hx-disabled-elt="this" hx-swap="innerHTML"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M6 7a7 7 0 0 1 12-1l2 6M4 12l2 6a7 7 0 0 0 12-1"/></svg><span>Refresh</span></button><span id="refresh-result" class="refresh-result" role="status"></span></div>
 {{end}}
 {{define "footer"}}
 <footer class="site-footer"><div class="shell footer-inner"><span class="footer-brand">AnkerDeck <span>Find your next game.</span></span><div class="footer-links"><a href="https://ankergames.net" target="_blank" rel="noopener noreferrer">AnkerGames</a><a href="https://www.codeweavers.com/compatibility" target="_blank" rel="noopener noreferrer">CrossOver ratings</a></div><p>Independent project. Not affiliated with AnkerGames or CodeWeavers.</p></div></footer>

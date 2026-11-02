@@ -6,6 +6,5 @@
       "GO_BUILD_FLAGS": "-buildvcs=false -ldflags '-s -w'"
     }
   },
-  "regions": ["iad1"],
-  "crons": [{"path": "/api/cron", "schedule": "0 3 * * *"}]
+  "regions": ["iad1"]
 }

@@ -34,10 +34,6 @@ func run(log *slog.Logger) error {
 	flag.Parse()
 	addr := env("ADDR", ":"+env("PORT", "8080"))
 	hosted := os.Getenv("VERCEL") == "1"
-	interval := envDuration("REFRESH_INTERVAL", 15*time.Minute)
-	if interval < time.Minute {
-		interval = time.Minute
-	}
 
 	var database *snapshotDB
 	var err error
@@ -55,40 +51,22 @@ func run(log *slog.Logger) error {
 	}
 	defer database.close()
 	if *seedPath != "" {
-		payload, err := os.ReadFile(*seedPath)
+		snapshot, err := importSnapshot(ctx, database, *seedPath)
 		if err != nil {
-			return err
-		}
-		var snapshot Snapshot
-		if err := json.Unmarshal(payload, &snapshot); err != nil {
-			return err
-		}
-		if len(snapshot.Top) == 0 && len(snapshot.Trending) == 0 {
-			return fmt.Errorf("seed contains no games")
-		}
-		if err := database.save(ctx, snapshot); err != nil {
 			return err
 		}
 		log.Info("snapshot imported", "top", len(snapshot.Top), "trending", len(snapshot.Trending))
 		return nil
 	}
 
-	store := NewStore()
-	initial, err := database.latest(ctx)
-	if err != nil {
-		return err
-	}
-	store.Load(initial)
-	fetcher := NewFetcher(os.Getenv("JINA_API_KEY"))
-	compat := NewCompatClient(fetcher)
-	refresher := NewRefresher(store, database, fetcher, compat, interval, log)
+	snapshot := Snapshot{}
 	if !hosted {
-		refreshDone := make(chan struct{})
-		go func() { defer close(refreshDone); refresher.Run(ctx) }()
-		defer func() { stop(); <-refreshDone }()
+		snapshot, err = database.latest(ctx)
+		if err != nil {
+			return err
+		}
 	}
-
-	app, err := NewApp(store, interval, refresher)
+	app, err := NewApp(snapshot)
 	if err != nil {
 		return err
 	}
@@ -96,8 +74,7 @@ func run(log *slog.Logger) error {
 	var handler http.Handler = app.Handler()
 	writeTimeout := 30 * time.Second
 	if hosted {
-		handler = securityHeaders(&hostedHandler{app: app, database: database, fetcher: fetcher, log: log, interval: interval})
-		writeTimeout = 290 * time.Second
+		handler = securityHeaders(&hostedHandler{app: app, database: database, log: log})
 	}
 	srv := &http.Server{
 		Addr:              addr,
@@ -133,14 +110,28 @@ func env(key, fallback string) string {
 	return fallback
 }
 
-func envDuration(key string, fallback time.Duration) time.Duration {
-	v := os.Getenv(key)
-	if v == "" {
-		return fallback
+func readSnapshot(path string) (Snapshot, error) {
+	payload, err := os.ReadFile(path)
+	if err != nil {
+		return Snapshot{}, err
 	}
-	d, err := time.ParseDuration(v)
-	if err != nil || d <= 0 {
-		return fallback
+	var snapshot Snapshot
+	if err := json.Unmarshal(payload, &snapshot); err != nil {
+		return Snapshot{}, err
 	}
-	return d
+	if len(snapshot.Top) == 0 || len(snapshot.Trending) == 0 {
+		return Snapshot{}, fmt.Errorf("seed must contain both top and trending games")
+	}
+	return snapshot, nil
+}
+
+func importSnapshot(ctx context.Context, database *snapshotDB, path string) (Snapshot, error) {
+	snapshot, err := readSnapshot(path)
+	if err != nil {
+		return Snapshot{}, err
+	}
+	if err := database.save(ctx, snapshot); err != nil {
+		return Snapshot{}, err
+	}
+	return snapshot, nil
 }

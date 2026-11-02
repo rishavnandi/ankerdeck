@@ -31,9 +31,6 @@ func openSnapshotDB(path string) (*snapshotDB, error) {
 	);`); err == nil {
 		_, err = db.Exec(`CREATE INDEX IF NOT EXISTS runs_captured_at ON runs(captured_at)`)
 	}
-	if err == nil {
-		_, err = db.Exec(`CREATE TABLE IF NOT EXISTS limits (name TEXT PRIMARY KEY, at TEXT NOT NULL)`)
-	}
 	if err != nil {
 		db.Close()
 		return nil, err
@@ -65,36 +62,6 @@ func (d *snapshotDB) save(ctx context.Context, snapshot Snapshot) error {
 	}
 	_, err = d.db.ExecContext(ctx, d.query(`DELETE FROM runs WHERE captured_at < ?`), time.Now().AddDate(0, 0, -30).UTC().Format(time.RFC3339Nano))
 	return err
-}
-
-func (d *snapshotDB) takeManualSlot(ctx context.Context, now time.Time, window time.Duration) (time.Duration, error) {
-	return d.takeSlot(ctx, "manual-refresh", now, window)
-}
-
-// An atomic conditional upsert coordinates refreshes across server instances.
-func (d *snapshotDB) takeSlot(ctx context.Context, name string, now time.Time, window time.Duration) (time.Duration, error) {
-	const layout = "2006-01-02T15:04:05.000000000Z"
-	var at string
-	err := d.db.QueryRowContext(ctx, d.query(`INSERT INTO limits(name, at) VALUES(?, ?)
- ON CONFLICT(name) DO UPDATE SET at=excluded.at WHERE limits.at <= ? RETURNING at`), name, now.UTC().Format(layout), now.Add(-window).UTC().Format(layout)).Scan(&at)
-	if err == nil {
-		return 0, nil
-	}
-	if !errors.Is(err, sql.ErrNoRows) {
-		return 0, err
-	}
-	if err := d.db.QueryRowContext(ctx, d.query(`SELECT at FROM limits WHERE name=?`), name).Scan(&at); err != nil {
-		return 0, err
-	}
-	last, err := time.Parse(time.RFC3339Nano, at)
-	if err != nil {
-		return 0, err
-	}
-	remaining := window - now.Sub(last)
-	if remaining <= 0 {
-		remaining = time.Second
-	}
-	return remaining, nil
 }
 
 func (d *snapshotDB) query(query string) string {
@@ -129,7 +96,6 @@ func openPostgresSnapshotDB(ctx context.Context, connection string) (*snapshotDB
 	for _, statement := range []string{
 		`CREATE TABLE IF NOT EXISTS runs (id BIGSERIAL PRIMARY KEY, captured_at TEXT NOT NULL, payload BYTEA NOT NULL)`,
 		`CREATE INDEX IF NOT EXISTS runs_captured_at ON runs(captured_at)`,
-		`CREATE TABLE IF NOT EXISTS limits (name TEXT PRIMARY KEY, at TEXT NOT NULL)`,
 	} {
 		if _, err := db.ExecContext(ctx, statement); err != nil {
 			db.Close()

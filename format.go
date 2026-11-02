@@ -59,14 +59,3 @@ func initial(s string) string {
 	}
 	return "?"
 }
-
-func humanDuration(d time.Duration) string {
-	switch {
-	case d >= time.Hour && d%time.Hour == 0:
-		return fmt.Sprintf("%dh", int(d.Hours()))
-	case d >= time.Minute:
-		return fmt.Sprintf("%dm", int(d.Minutes()))
-	default:
-		return fmt.Sprintf("%ds", int(d.Seconds()))
-	}
-}

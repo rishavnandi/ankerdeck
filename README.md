@@ -1,8 +1,8 @@
 # AnkerDeck
 
-An unofficial dashboard for AnkerGames' top and trending game charts, with each title matched to its CrossOver rating in the CodeWeavers compatibility database.
+An unofficial dashboard for AnkerGames' top and trending game charts, with each title matched to its CrossOver rating in the CodeWeavers compatibility database. The site renders saved chart snapshots; it does not fetch or update charts automatically.
 
-## Run
+## Run locally
 
 Requires Go 1.27 or newer.
 
@@ -15,33 +15,38 @@ Open <http://localhost:8080>. Configuration is optional:
 | Variable | Default | Description |
 | --- | --- | --- |
 | `ADDR` | `:8080` | HTTP listen address |
-| `REFRESH_INTERVAL` | `15m` | How often the source charts refresh. Values below `1m` are raised to one minute. |
-| `JINA_API_KEY` | unset | Optional key for the Jina Reader fallback. |
-| `DB_PATH` | `ankerdeck.db` | SQLite database path. |
+| `DB_PATH` | `ankerdeck.db` | SQLite database path |
+| `DATABASE_URL` | unset | PostgreSQL connection URL; when set, it replaces SQLite |
 
-`GET /healthz` returns `ok`. The browser updates the home preview from `/boards` and refreshes full-list result fragments without a full page reload. Search and rating filters stay in place while results update. `POST /refresh` starts a manual refresh, limited to once every five minutes across restarts.
+`GET /healthz` returns `ok`. The home page shows the first five entries from each chart. `/top-games` shows up to 200 top games, and `/trending` shows the saved trending list. Search and CrossOver rating filters run in the browser.
 
-The home page shows the first five entries from each chart. `/top-games` shows up to 200 top games, following AnkerGames pagination. `/trending` shows the ranked entries supplied by AnkerGames. Its current page contains only 20 games, and requesting page 2 repeats those entries.
+## Import a weekly snapshot
 
-SQLite stores completed snapshots and restores the latest one on startup. Snapshots older than 30 days are removed during refresh. The theme follows the system preference until a visitor chooses light or dark mode.
+Fetch the Top Games and Trending lists manually, then save both lists and their capture timestamps in one snapshot JSON file. The JSON fields match `Snapshot` and `Game` in `snapshot.go`; each game's `Compat` object contains the static badge fields `Status`, `Label`, `Stars`, `MatchName`, `URL`, and `Tooltip`.
 
-## Data and matching
+For local SQLite, import a snapshot with:
 
-The server reads [AnkerGames Top Games](https://ankergames.net/top-games) and [Trending](https://ankergames.net/trending), then searches [CodeWeavers Compatibility](https://www.codeweavers.com/compatibility) for each distinct title. Compatibility results are cached for 24 hours from their original check time and restored from SQLite on restart. Matching preserves sequel numbers, remakes, remasters, and Enhanced editions; packaging suffixes such as Deluxe or Legacy Edition can resolve to the base title. Each badge links to its matched report and names the match in its tooltip. Matching rules are versioned so old results are rechecked when the matcher changes.
+```sh
+go run . -seed path/to/snapshot.json
+```
 
-AnkerGames may return a Cloudflare challenge to direct requests. The fetcher then uses the Jina Reader service's Cloudflare browser-rendering engine to retrieve the HTML. A Jina API key is optional, but its service limits can affect refreshes. If either chart source fails, AnkerDeck keeps the last good board and retries on the next refresh. The default CodeWeavers search currently supplies Mac ratings, identified by an Apple-marked table header. The parser verifies that marker and rejects other platforms or unexpected pages. Its `platform=mac` search-form filter returned empty results for known games during verification, so it is deliberately not used. Compatibility checks prioritize both charts by rank, run in two bounded workers, and have a separate deadline from chart retrieval. Charts are saved before enrichment, and a failed pagination request preserves the previous complete chart.
+To update the production Neon database, set `DATABASE_URL` in your shell and pass the snapshot file to the helper:
 
-The included `testdata/` HTML files are captured source pages used by the parser tests.
+```sh
+export DATABASE_URL='<Neon pooled connection URL>'
+./scripts/seed-weekly.sh data/weekly-snapshot.json
+```
+
+The helper requires `DATABASE_URL`, imports the supplied file, and exits. It never prints the connection URL. Keep credentials in your shell or a secret manager; do not put them in the snapshot or Git.
+
+## Data and compatibility ratings
+
+The snapshot stores both charts, their update times, game metadata, and CrossOver badge details. The application displays those values as imported and does not query AnkerGames or CodeWeavers. The compatibility legend describes the badge labels. Ratings are for CrossOver on Mac; select a badge to open its report.
+
+The `testdata/` HTML files are captured source pages retained as reference fixtures.
 
 ## Vercel
 
-The app uses Vercel’s Go framework preset and listens on `PORT`. Set these production variables as secrets:
-
-- `DATABASE_URL`: pooled PostgreSQL connection URL. Production uses a dedicated Neon database; SQLite remains the default for local development.
-- `CRON_SECRET`: random secret checked by `/api/cron`.
-
-On Vercel, chart snapshots and refresh leases are shared in PostgreSQL. Refreshes run within HTTP requests rather than relying on a background timer. Chart polling requests refresh stale data after 15 minutes, with a five-minute retry window after a source failure. A daily Vercel cron provides a fallback when nobody is browsing. The Hobby plan only permits daily cron schedules; active visitors still trigger more frequent updates.
-
-The initial production snapshot was imported from the local app using `go run . -seed /path/to/snapshot.json`. The local database, environment files, and credentials are excluded from Git and deployment uploads. Preview deployments need their own `DATABASE_URL` and `CRON_SECRET`; do not connect previews to the production database.
+The app uses Vercel's Go framework preset and listens on `PORT`. Set `DATABASE_URL` to the production Neon pooled PostgreSQL connection URL. Vercel reloads the saved snapshot from the database for each page request. There is no cron job or refresh endpoint.
 
 Deploy with `vercel --prod` after configuring the production environment. The GitHub repository is linked to the Vercel project for subsequent deployments from `main`.

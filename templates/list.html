@@ -1,10 +1,48 @@
-<!doctype html><html lang="en"><head><title>{{.ListTitle}} — AnkerDeck</title>{{template "head" .}}</head><body>{{template "header" .}}<main id="main" class="shell full-list-page"><div class="page-heading"><div><a class="back-link" href="/">{{template "back-arrow"}} Overview</a><h1>{{.ListTitle}}</h1><p class="list-intro">{{if eq .ListKind "top"}}The most downloaded games on AnkerGames.{{else}}The games getting the most downloads this week.{{end}} Find one to play next.</p></div>{{template "refresh" .}}</div>
-<div class="list-toolbar"><label class="search-field">{{template "search-icon"}}<span class="sr-only">Search games</span><input type="search" id="game-search" placeholder="Search games…" autocomplete="off"></label><label class="rating-filter"><span class="sr-only">Filter by CrossOver rating</span><select id="rating-filter"><option value="all">All CrossOver ratings</option><option value="recommended">Runs well or better</option><option value="playable">Some issues</option><option value="issues">Major issues or broken</option><option value="unknown">No rating yet</option></select></label></div>
-{{template "list-results" .}}
-<p class="list-disclaimer">Ratings are for CrossOver on Mac. Select a badge to read the community report.</p></main>{{template "footer" .}}</body></html>
-{{define "list-results"}}
-<section id="list-results" hx-get="{{if eq .ListKind "top"}}/top-games{{else}}/trending{{end}}" hx-trigger="{{.Trigger}}, refreshCharts from:body" hx-target="this" hx-swap="outerHTML" aria-label="{{.ListTitle}} results">
-<div class="list-summary"><span data-results-count>{{len .Games}} games</span><span class="refresh-line">{{.UpdatedText}}</span></div>
-{{template "notice" .}}
-<article class="board full-list-board"><div class="table-heading"><span>#</span><span>Game</span><span>Downloads {{if eq .ListKind "top"}}· all time{{else}}· this week{{end}}</span><span>CrossOver · Mac</span></div><ol class="board-list">{{range .Games}}<li class="game-row" data-title="{{.Title}}" data-status="{{.Compat.Status}}">{{template "rank" .}}{{template "cover" .}}<div class="game-main"><a class="game-title" href="{{.URL}}" target="_blank" rel="noopener noreferrer">{{.Title}}</a><div class="game-meta">{{genres .Genres}}{{if .Year}}{{if .Genres}} · {{end}}{{.Year}}{{end}}{{if and (eq $.ListKind "trending") .Peak}}{{if or .Genres .Year}} · {{end}}Peak {{.Peak}}{{end}}</div></div><div class="game-numbers" title="{{.Downloads}} downloads"><span class="downloads">{{num .Downloads}}</span></div>{{template "compat" .Compat}}</li>{{else}}<li class="empty-row">{{if .Snapshot.Errors}}Games are unavailable right now. Please try again shortly.{{else}}Getting the games ready…{{end}}</li>{{end}}</ol><div class="filter-empty" hidden><h2>No games found</h2><p>Try another name or a different rating.</p><button type="button" class="btn btn-secondary" data-clear-filters>Clear filters</button></div></article></section>
-{{end}}
+<!doctype html>
+<html lang="en">
+<head>
+  <title>{{.ListTitle}} — AnkerDeck</title>
+  {{template "head" .}}
+</head>
+<body>
+  {{template "header" .}}
+  <main id="main" class="shell full-list-page">
+    <div class="page-heading">
+      <div>
+        <a class="back-link" href="/">{{template "back-arrow"}} Overview</a>
+        <h1>{{.ListTitle}}</h1>
+        <p class="list-intro">{{if eq .ListKind "top"}}The most downloaded games on AnkerGames.{{else}}The games getting the most downloads this week.{{end}} Find one to play next.</p>
+      </div>
+    </div>
+    <div class="list-toolbar">
+      <label class="search-field">{{template "search-icon"}}<span class="sr-only">Search games</span><input type="search" id="game-search" placeholder="Search games…" autocomplete="off"></label>
+      <label class="rating-filter"><span class="sr-only">Filter by CrossOver rating</span><select id="rating-filter"><option value="all">All CrossOver ratings</option><option value="recommended">Runs well or better</option><option value="playable">Some issues</option><option value="issues">Major issues or broken</option><option value="unknown">No rating yet</option></select></label>
+    </div>
+    <section id="list-results" aria-label="{{.ListTitle}} results">
+      <div class="list-summary"><span data-results-count>{{len .Games}} games</span><span class="updated-line">{{.UpdatedText}}</span></div>
+      <article class="board full-list-board">
+        <div class="table-heading"><span>#</span><span>Game</span><span>Downloads {{if eq .ListKind "top"}}· all time{{else}}· this week{{end}}</span><span>CrossOver · Mac</span></div>
+        <ol class="board-list">
+          {{range .Games}}
+          <li class="game-row" data-title="{{.Title}}" data-status="{{.Compat.Status}}">
+            {{template "rank" .}}
+            {{template "cover" .}}
+            <div class="game-main">
+              <a class="game-title" href="{{.URL}}" target="_blank" rel="noopener noreferrer">{{.Title}}</a>
+              <div class="game-meta">{{genres .Genres}}{{if .Year}}{{if .Genres}} · {{end}}{{.Year}}{{end}}{{if and (eq $.ListKind "trending") .Peak}}{{if or .Genres .Year}} · {{end}}Peak {{.Peak}}{{end}}</div>
+            </div>
+            <div class="game-numbers" title="{{.Downloads}} downloads"><span class="downloads">{{num .Downloads}}</span></div>
+            {{template "compat" .Compat}}
+          </li>
+          {{else}}
+          <li class="empty-row">No saved chart data is available yet.</li>
+          {{end}}
+        </ol>
+        <div class="filter-empty" hidden><h2>No games found</h2><p>Try another name or a different rating.</p><button type="button" class="btn btn-secondary" data-clear-filters>Clear filters</button></div>
+      </article>
+    </section>
+    <p class="list-disclaimer">Ratings are for CrossOver on Mac. Select a badge to read the community report.</p>
+  </main>
+  {{template "footer" .}}
+</body>
+</html>

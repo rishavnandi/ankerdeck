@@ -170,7 +170,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible {
   display: flex;
   align-items: center;
 }
-.theme-toggle,.refresh-button {
+.theme-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -187,35 +187,8 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible {
   width: 36px;
   padding: 0;
 }
-.theme-toggle:hover,.refresh-button:hover,.btn-secondary:hover {
+.theme-toggle:hover,.btn-secondary:hover {
   background: var(--gray-bg);
-}
-.refresh-button {
-  padding: 0 12px;
-}
-.refresh-control {
-  position: relative;
-  flex: none;
-}
-.refresh-result {
-  position: absolute;
-  right: 0;
-  top: calc(100% + 8px);
-  z-index: 10;
-  width: max-content;
-  max-width: 280px;
-  color: var(--body);
-  font-size: 12px;
-}
-.refresh-result:not(:empty) {
-  padding: 10px 14px;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--surface);
-  box-shadow: 0 4px 16px #0001;
-}
-.refresh-button.htmx-request svg {
-  animation: spin 1s linear infinite;
 }
 .hero {
   border-bottom: 1px solid var(--border);
@@ -301,7 +274,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible {
   color: var(--muted);
   font-size: 12px;
 }
-.refresh-line {
+.updated-line {
   color: var(--muted);
   font-size: 12px;
 }
@@ -476,15 +449,6 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible {
   padding: 56px 24px;
   color: var(--muted);
   text-align: center;
-}
-.notice {
-  margin-bottom: 16px;
-  padding: 12px 16px;
-  border: 1px solid var(--amber-border);
-  border-radius: 6px;
-  color: var(--amber);
-  background: var(--amber-bg);
-  font-size: 13px;
 }
 .compat {
   display: inline-flex;
@@ -729,11 +693,6 @@ a.compat:hover {
   width: 100%;
   font-size: 11px;
 }
-@keyframes spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
 @keyframes pulse {
   50% {
     opacity: .3;
@@ -894,9 +853,6 @@ a.compat:hover {
     gap: 16px;
     align-items: flex-start;
   }
-  .page-heading .refresh-control {
-    margin-top: 42px;
-  }
   .full-list-page h1 {
     font-size: 28px;
   }
@@ -952,9 +908,6 @@ a.compat:hover {
   }
   .compat-score {
     display: none;
-  }
-  .refresh-button {
-    padding-inline: 8px;
   }
   .hero h1 {
     font-size: 34px;
