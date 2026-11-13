@@ -18,7 +18,7 @@ Open <http://localhost:8080>. Configuration is optional:
 | `DB_PATH` | `ankerdeck.db` | SQLite database path |
 | `DATABASE_URL` | unset | PostgreSQL connection URL; when set, it replaces SQLite |
 
-`GET /healthz` returns `ok`. The home page shows the first five entries from each chart. `/top-games` shows up to 200 top games, and `/trending` shows the saved trending list. Search and CrossOver rating filters run in the browser.
+`GET /healthz` returns `ok`. The home page shows the first five entries from each chart. `/top-games` shows up to 500 top games, and `/trending` shows the saved trending list. Search and CrossOver rating filters run in the browser.
 
 ## Import a weekly snapshot
 

@@ -9,6 +9,8 @@ import (
 	"net/http"
 )
 
+const topGamesListLimit = 500
+
 //go:embed templates/*.html
 var templateFS embed.FS
 
@@ -71,7 +73,7 @@ func (a *App) list(w http.ResponseWriter, kind string) {
 	data := a.pageData()
 	data.ListKind = kind
 	if kind == "top" {
-		data.ListTitle, data.Games = "Top games", data.Snapshot.Top
+		data.ListTitle, data.Games = "Top games", takeGames(data.Snapshot.Top, topGamesListLimit)
 	} else {
 		data.ListTitle, data.Games = "Trending", data.Snapshot.Trending
 	}
